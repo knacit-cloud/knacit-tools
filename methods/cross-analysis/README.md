@@ -41,7 +41,20 @@ The method is the **collision**: put a specific A next to a specific B and ask *
 4. **Name the gap** — write one paragraph: what does this contradiction reveal that neither source shows alone?
 5. **Form a hypothesis, not a verdict** — state the suspected root cause as a strong hypothesis to be tested *with* the people involved, not as a diagnosis delivered *to* them.
 
-Throughout: AI may propose questions, summarize documents, and suggest patterns. **The decision of what the gap means is made by a human.** (Why this rule exists — with numbers — is in [human-in-the-loop.md](human-in-the-loop.md).)
+## Who does what — the division of labor
+
+The two axes are not symmetric. This is the part most AI-driven analysis gets wrong.
+
+| Step | Who | Why |
+|---|---|---|
+| Collect A (research, data) | **AI-assisted**, human verifies every source | Searching and summarizing is what AI is good at. Verification is non-negotiable. |
+| Collect B (field voices, feelings) | **Human only** | People share what they really think only with someone they trust, in the room. AI cannot sit there, notice hesitation, or hear what was *not* said. |
+| Classify B (which voice matters) | **Human only** | Deciding that "the two veterans can read smudged faxes" is a load-bearing fact — and that another comment is noise — takes context no transcript carries. |
+| Confront A × B | Human decides, AI may suggest patterns | AI can propose "these two points seem to contradict." Only a human can judge what the contradiction *means* for this organization. |
+
+In short: **A is where AI helps most; B is human territory end to end.** An analysis that lets AI collect and sort the field reality has already removed the human viewpoint the method depends on — whatever it produces, it is not Cross-Analysis.
+
+Why these rules exist — with numbers — is in [human-in-the-loop.md](human-in-the-loop.md).
 
 ## What this method is not
 
@@ -95,7 +108,20 @@ Throughout: AI may propose questions, summarize documents, and suggest patterns.
 4. **ギャップに名前をつける** — この矛盾は、単独の情報源では見えない何を明らかにしているか。1段落で書く。
 5. **判決ではなく仮説を立てる** — 疑われる真因を「当事者と一緒に確かめる強い仮説」として置く。「診断結果の宣告」にしない。
 
-全工程を通じて：AIに問いの提案・資料の要約・パターンの示唆をさせてよい。**ただし「ギャップが何を意味するか」の判断は人間が下す。**（このルールが存在する理由は、数字とともに [human-in-the-loop.md](human-in-the-loop.md) に）
+## 誰が何をやるか ── 人間とAIの分担
+
+2つの軸は対称ではありません。AI主導の分析が間違えるのは、たいていここです。
+
+| 工程 | 担当 | 理由 |
+|---|---|---|
+| Aを集める（研究・データ） | **AI補助**＋人間が全出典を検証 | 検索と要約はAIの得意領域。検証は絶対に省かない。 |
+| Bを集める（現場の声・気持ち） | **人間だけ** | 人は、信頼した相手にしか本音を話さない。AIは現場に座れないし、ためらいに気づけないし、「言われなかったこと」を聞けない。 |
+| Bを分類する（どの声が重要か） | **人間だけ** | 「ベテラン2人は崩れたFAXを読める」が構造を支える事実で、別の発言はノイズだ——この仕分けには、文字起こしには残らない文脈が要る。 |
+| A×Bを突き合わせる | 人間が判断（AIはパターン示唆まで） | 「この2点は矛盾していそうだ」まではAIが出せる。その矛盾がこの組織にとって**何を意味するか**を判断できるのは人間だけ。 |
+
+要するに：**AはAIが最も役立つ場所、Bは端から端まで人間の領域。** 現場の現実の収集と仕分けをAIに任せた分析は、この手法が依って立つ「人間の視点」をその時点で失っている——何が出てきても、それはもうクロス分析ではありません。
+
+このルールが存在する理由は、数字とともに [human-in-the-loop.md](human-in-the-loop.md) にあります。
 
 ## この手法が「ではない」もの
 
