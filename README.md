@@ -12,7 +12,17 @@ Practical tools built and published by [Knacit](https://knacit.com), free for an
 - 設計判断の記録は [docs/DECISIONS.md](docs/DECISIONS.md) にあります。
   Design decisions are recorded in [docs/DECISIONS.md](docs/DECISIONS.md) (Japanese).
 
-## ツール一覧 / Tools
+## 中身 / What's inside
+
+### 方法論 / Methods
+
+| 方法論 / Method | 説明 / Description |
+|---|---|
+| [Cross-Analysis / クロス分析](methods/cross-analysis/README.md) | 客観データ×現場一次情報を突き合わせて真因を出す診断手法 / A diagnostic method that confronts objective data with field reality to surface root causes |
+| [Human-in-the-Loop の3原則](methods/cross-analysis/human-in-the-loop.md) | 検証済み研究に基づく、AIと働くための3つの運用原則 / Three evidence-based principles for working with AI |
+| [実在しなかった引用](methods/cross-analysis/the-fabricated-citation.md) | AIの捏造引用を発見した実話とチェックリスト / How we caught an AI-fabricated citation, and the checklist born from it |
+
+### ツール / Tools
 
 | ツール / Tool | 説明 / Description |
 |---|---|
