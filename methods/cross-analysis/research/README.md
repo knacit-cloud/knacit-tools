@@ -23,7 +23,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | 🔍 evidence gathered, awaiting human verification |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | 🔍 evidence gathered, awaiting human verification |
-| 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | not started |
+| 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | 🔍 evidence gathered, awaiting human verification |
 
 Themes will be split further as research gets granular (e.g., #3 may split into cognitive/affective/motivational empathy).
 
@@ -44,6 +44,9 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 | **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | *AI & SOCIETY* 2026 | https://link.springer.com/article/10.1007/s00146-026-03000-1 | 🔍 |
 | Body is part of cognition's structure, not peripheral (embodied intelligence) | *Nature Machine Intelligence* 2026 | https://www.nature.com/articles/s42256-026-01239-3 | 🔍 |
 | Human deception detection ≈54% (nonverbal cues weak); micro-expression training ineffective — **limits our own Theme-4 claim** | DePaulo et al. 2003 meta-analysis (via secondary — locate primary) | https://psychology.town/general/detecting-deception-non-verbal-cues/ | 🔍 |
+| **[Responsibility theme, 2026-07-19]** Agency can be delegated to AI; accountability cannot — someone answerable is invariably human | *Frontiers in AI* 2026 | https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800302/full | 🔍 |
+| People delegate unpleasant decisions (dismissals) to algorithms for blame avoidance — **human misuse warning** | *Frontiers in Psychology* 2022 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.779028/full | 🔍 |
+| Machine errors judged disproportionately more harshly than human errors | PMC 2022 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ | 🔍 |
 | Wrong AI suggestions collapse expert accuracy 82.3%→45.5% (automation bias, 27 radiologists) | Dratsch et al., *Radiology* 2023 | https://pubs.rsna.org/doi/full/10.1148/radiol.222176 | ✅ |
 | AI assistance lifts productivity +14% (+34% for novices); mechanism is diffusing top performers' tacit knowledge | Brynjolfsson, Li & Raymond, *QJE* 2025 | https://www.nber.org/papers/w31161 | ✅ |
 | Heavy AI use correlates negatively with critical thinking (n=666, cognitive offloading mediates) | Gerlich, *Societies* 2025 | https://www.mdpi.com/2075-4698/15/1/6 | ✅ |
