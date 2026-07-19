@@ -64,7 +64,7 @@
 | C | AIが人間より思いやりと評価（N=556, d=0.73, 危機専門家超え） | https://www.nature.com/articles/s44271-024-00182-6 | ⚠️（2026-07-19照合：Ovsyannikova, Oldemburgo de Mello & Inzlicht, Communications Psychology 3:4 (2025)。全数値一致確認） |
 | D | メタ分析: AI共感優位 SMD 0.87（GPT-4のみ有意） | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ | ⚠️（2026-07-19照合：Howcroft et al., British Medical Bulletin 2025。15研究中13がメタ分析対象。SMD 0.87 (CI 0.54-1.20, P<.00001)/GPT-4 1.03有意・GPT-3.5 0.51非有意/全テキスト・代理評価・検証済み尺度1研究のみ・6研究が高バイアス、全て原文確認） |
 | E | 臨床家盲検: AIが感情/動機的共感で専門家超え・だが帰属が選好を駆動(93.55%) | https://www.sciencedirect.com/science/article/pii/S2214782925000429 | 🔍 |
-| F | ChatGPTがLEAS(感情認識)で人間規範超え・但し「分かってもらえた感」とは別と著者が明言 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | 🔍 |
+| F | ChatGPTがLEAS(感情認識)で人間規範超え・但し「分かってもらえた感」とは別と著者が明言 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ （Elkins et al., Front. Psychol. 2023, doi:10.3389/fpsyg.2023.1199058） | ✅（2026-07-19：PMC全文を読了。LEAS総合85→98/100で一般人口規範を有意超え・適合度9.7/10。著者が本文で「AIが相手の感情を"理解"できても患者が"分かってもらえた"と感じるかは別」と明言。主張と一致） |
 | G | LLM恋愛相談が人間超え(認知/動機的共感) ※プレプリント要注意 | https://arxiv.org/pdf/2602.17293 | 🔍 |
 
 *全て deep-research（2026-07-19）が抽出。AI敵対的検証はレート制限で未実行。各リンクを人間が開いて確認し、確認できたものを ⚠️→✅ に上げること。*

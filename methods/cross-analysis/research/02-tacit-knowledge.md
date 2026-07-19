@@ -56,7 +56,7 @@
 
 ## まだわからない・要検証（次にやること）
 
-- ⚠️ 「94.9%再現率」の一次確認（arXiv 2507.03811）。数字が飛び抜けているものほど疑う。
+- ✅【済 2026-07-19】「94.9%」はarXiv原典で確認。"full-knowledge recall"（実験設定内の指標）と判明。一般主張ではない旨を注記済み。
 - Collins の3分類の原典（*Tacit and Explicit Knowledge*, 2010）を確認し、要約が正確か検証する。
 - 身体的暗黙知は Theme 1（身体性）と重なる → 統合時に整理。
 - 「プルリクを感じで見抜く」系の逸話は魅力的だが逸話。定量研究を探す。
@@ -66,9 +66,9 @@
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
 | A | AIがトップ層の暗黙知を新人に波及（+14%/+34%） | https://www.nber.org/papers/w31161 | ✅（検証済み・台帳既存） |
-| B | LLMエージェントが暗黙知を反復抽出（94.9%再現と報告） | https://www.emergentmind.com/papers/2507.03811 | 🔍（数字要検証・一次はarXiv） |
+| B | LLMエージェントが暗黙知を反復抽出（94.9% full-knowledge recall と報告） | https://arxiv.org/abs/2507.03811 （Zuin, Mastelini, Loures & Veloso 2025, IJCNN 2025採択） | ✅（2026-07-19：arXiv原典で確認。94.9%は"full-knowledge recall"＝反復対話で回収できた知識の割合。実験設定内の指標であり「現実組織でAIが暗黙知を94.9%抽出する」という一般主張ではない点に注意。二次リンクemergentmindから一次arXivへ差替済み） |
 | C | Collins: 関係的/身体的/集合的の3分類 | https://davidlxu.github.io/posts/2026/04/michael-polanyi-tacit-knowledge-ai/ | 🔍（二次情報・原典 Collins 2010 要確認） |
-| D | 医学教育: 暗黙知の伝達は師弟の密な相互作用が必要 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 🔍 |
+| D | 医学教育: 暗黙知の伝達は師弟の密な相互作用が必要 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ （Cureus 2025, doi:10.7759/cureus.102205） | ✅（2026-07-19：PMC全文読了。「知識の伝達には信頼と師弟の持続的な密接な相互作用が不可欠」「教師と同席しない学習者は技能再現に失敗しやすい」と明記。※実証研究ではなくPolanyiを引く**論説(Editorial)**である点は明示すること。この論説自体がPolanyi核 "we know more than we can tell" を引用＝C/E/Fのアンカーにも使える） |
 | E | 暗黙知・身体知は訓練データに存在し得ない（Polanyi論） | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292030 | 🔍 |
 | F | ニューラルネット自身が「語れない知」を持つ（問題の移動） | https://davidlxu.github.io/posts/2026/04/michael-polanyi-tacit-knowledge-ai/ | 🔍（二次情報） |
 
