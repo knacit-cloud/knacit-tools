@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | not started |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | not started |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | 🔍 evidence gathered, awaiting human verification |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | 🔍 evidence gathered, awaiting human verification |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | not started |
@@ -38,6 +38,9 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 | Chatbots seen as non-judgmental "safe space" for embarrassing disclosure | *Interacting with Computers* (Oxford) 2024 | https://academic.oup.com/iwc/article/36/5/279/7692197 | 🔍 |
 | Rapport is prerequisite for honest depth; without it only surface answers (human skill) | *Qualitative Sociology* 2025 | https://link.springer.com/article/10.1007/s11133-025-09619-8 | 🔍 |
 | Humans elicit richer/authentic negative examples; AI misses hesitation/sarcasm/tone | industry study (secondary — locate primary) | https://www.insightplatforms.com/ai-moderated-research-on-research-ai-vs-human-interviewers-effectiveness/ | 🔍 |
+| **[Tacit knowledge theme, 2026-07-19]** Collins' 3 types: relational (codifiable) / somatic (bodily) / collective (in practices) — key to resolving the Brynjolfsson conflict | Collins, *Tacit and Explicit Knowledge* 2010 (via secondary) | https://davidlxu.github.io/posts/2026/04/michael-polanyi-tacit-knowledge-ai/ | 🔍 |
+| LLM agents extract tacit knowledge via iterative interviews (94.9% recall reported — verify this number) | arXiv 2507.03811 | https://www.emergentmind.com/papers/2507.03811 | 🔍 |
+| Tacit-knowledge transfer in medicine requires close mentor-learner interaction | PMC (medical education) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 🔍 |
 | Wrong AI suggestions collapse expert accuracy 82.3%→45.5% (automation bias, 27 radiologists) | Dratsch et al., *Radiology* 2023 | https://pubs.rsna.org/doi/full/10.1148/radiol.222176 | ✅ |
 | AI assistance lifts productivity +14% (+34% for novices); mechanism is diffusing top performers' tacit knowledge | Brynjolfsson, Li & Raymond, *QJE* 2025 | https://www.nber.org/papers/w31161 | ✅ |
 | Heavy AI use correlates negatively with critical thinking (n=666, cognitive offloading mediates) | Gerlich, *Societies* 2025 | https://www.mdpi.com/2075-4698/15/1/6 | ✅ |
