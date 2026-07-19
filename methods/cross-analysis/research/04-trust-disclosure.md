@@ -65,7 +65,7 @@
 
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
-| A | コンピュータと信じると評価恐怖↓・開示↑（本拠） | https://ict.usc.edu/pubs/It's%20Only%20a%20Computer%20-%20Virtual%20Humans%20Increase%20Willingness%20to%20Disclose.pdf | 🔍 |
+| A | コンピュータと信じると評価恐怖↓・開示↑（本拠） | https://www.sciencedirect.com/science/article/abs/pii/S0747563214002647 | ⚠️（2026-07-19照合：Semantic Scholarで書誌・要旨確認。被引用849。開示恐怖↓・印象管理↓・悲しみ表出↑を確認） |
 | B | 高機微な話題(民族/浮気/収入)はアバター>人間で開示 | https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684 | 🔍 |
 | C | AIにも人間にも同程度に個人情報を開示（開示同等） | https://www.sciencedirect.com/science/article/pii/S2949882125000647 | 🔍 |
 | D | チャットボットは恥ずかしい話の「安全地帯」（判断されない認知） | https://academic.oup.com/iwc/article/36/5/279/7692197 | 🔍 |
