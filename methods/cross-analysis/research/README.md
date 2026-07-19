@@ -12,7 +12,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 1. **Real papers only.** Every claim needs a primary source (the paper itself, not a blog about it). AI assistants fabricate citations — [we caught one ourselves](../the-fabricated-citation.md). **Where to look first: the [Source Registry](SOURCES.md)** — check Tier 1 (free full text) before searching; never cite Tier 3 (blogs).
 2. **Counterevidence is mandatory.** For every "humans are better at X" claim, we actively search for studies showing the opposite. A classification built only on flattering evidence is fiction.
-3. **Verification states:** 🔍 found, unverified → ⚠️ partially verified (paper exists, numbers unchecked) → ✅ human-verified against primary source.
+3. **Verification states:** 🔍 found, unverified → ⚠️ AI-verified (depth noted per entry: bibliographic / abstract / full text read) → ✅ human-verified against primary source. **AI verification never yields ✅, no matter how deep** — ✅ is reserved for a human opening the primary link and confirming. (Rule tightened 2026-07-19.)
 4. **Precision over slogans.** "People only open up to humans" is false as stated; the truth is finer (see ledger: disclosure vs. felt empathy). We record the precise version.
 
 ## Themes
@@ -26,6 +26,21 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | 🔍 evidence gathered, awaiting human verification |
 
 Themes will be split further as research gets granular (e.g., #3 may split into cognitive/affective/motivational empathy).
+
+## Human spot-check queue / 人間確認キュー
+
+AIが全文確認済みの項目。**りょうまさんがリンクを開いて確認欄の内容が本当に書いてあるか見たら、該当エントリを ✅ に上げる。**全て無料で読める。
+
+| リンク（無料全文） | 確認すること | 上げる先 |
+|---|---|---|
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006を引いて「chanceをわずかに上回る・真実バイアス」②視線回避等の手がかりは「診断的価値を欠く」 | Theme1 E1/E2・本台帳2行・human-territory H8 |
+| https://arxiv.org/abs/2507.03811 | 要旨に "94.9% full-knowledge recall" | Theme2 B |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial） | Theme2 D |
+| https://journals.openedition.org/philosophiascientiae/892?lang=en | Collins 3分類の定義（関係的／身体的／集合的） | Theme2 C |
+| https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | LEAS 85→98/100・「患者が"分かってもらえた"と感じるかは別」 | Theme3 F |
+| https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/ | OR=1.79/1.84・93.55%・識別45% | Theme3 E |
+| https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
 
 ## Verified-citation ledger / 検証済み台帳
 
@@ -43,8 +58,8 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 | Tacit-knowledge transfer in medicine requires close mentor-learner interaction | PMC (medical education) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 🔍 |
 | **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | *AI & SOCIETY* 2026 | https://link.springer.com/article/10.1007/s00146-026-03000-1 | 🔍 |
 | Body is part of cognition's structure, not peripheral (embodied intelligence) | *Nature Machine Intelligence* 2026 | https://www.nature.com/articles/s42256-026-01239-3 | 🔍 |
-| Nonverbal cues to deception are weak/unreliable — **limits our own Theme-4 claim** | DePaulo et al. *Psychological Bulletin* 129(1) (2003) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ✅ 2026-07-19: open-access Levine 2021 states the listed cues "lack diagnostic value"; original meta-analysis bib confirmed via Crossref. **Correction: the 54% figure belongs to Bond & DePaulo 2006, below** |
-| Human lie-truth judgment accuracy ≈54%, only slightly above chance | Bond & DePaulo, *PSPR* 10(3) (2006) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ✅ 2026-07-19: open-access Levine 2021 cites Bond & DePaulo 2006 — "people are slightly above chance accuracy overall, truth-biased." Anyone can read the full text |
+| Nonverbal cues to deception are weak/unreliable — **limits our own Theme-4 claim** | DePaulo et al. *Psychological Bulletin* 129(1) (2003) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ⚠️ AI full-text check 2026-07-19: open-access Levine 2021 states the listed cues "lack diagnostic value"; original meta-analysis bib confirmed via Crossref. **Correction: the 54% figure belongs to Bond & DePaulo 2006, below** — awaiting human check |
+| Human lie-truth judgment accuracy ≈54%, only slightly above chance | Bond & DePaulo, *PSPR* 10(3) (2006) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ⚠️ AI full-text check 2026-07-19: open-access Levine 2021 cites Bond & DePaulo 2006 — "people are slightly above chance accuracy overall, truth-biased." Free full text — awaiting human check |
 | **[Responsibility theme, 2026-07-19]** Agency can be delegated to AI; moral responsibility cannot — "irreducibly human"; gaps arise from institutional fragmentation | Radanliev, *Frontiers in AI* 9 (2026) | https://doi.org/10.3389/frai.2026.1800302 | ⚠️ AI-checked 2026-07-19: thesis and key passages confirmed against full text |
 | People delegate unpleasant decisions (dismissals) to algorithms for blame avoidance — **human misuse warning** | *Frontiers in Psychology* 2022 | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.779028/full | 🔍 |
 | Machine errors judged disproportionately more harshly than human errors | PMC 2022 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ | 🔍 |

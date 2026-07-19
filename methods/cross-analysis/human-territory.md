@@ -40,7 +40,7 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 |---|---|---|---|
 | H6 | Being felt as genuinely caring | Identical words are worth more from a human; knowing AI wrote it lowers felt empathy — an attribution effect, not a quality gap | Rubin 2025 ⚠️ |
 | H7 | Eliciting deep disclosure | Rich, authentic, specific accounts require rapport built in relation | qualitative-research literature 🔍 |
-| H8 | Real-time relational adjustment | Adjusting distance, timing, and follow-up questions to the person in front of you — a *resonance* function, **not** lie detection (humans: 54%) | Bond & DePaulo 2006 ✅ (via open-access Levine 2021) |
+| H8 | Real-time relational adjustment | Adjusting distance, timing, and follow-up questions to the person in front of you — a *resonance* function, **not** lie detection (humans: 54%) | Bond & DePaulo 2006 ⚠️ AI-checked via open-access Levine 2021, awaiting human check |
 | H9 | Salience judgment in context | Deciding which remark is load-bearing and which is noise requires context no transcript carries | (theoretical; theme 4) |
 | H10 | Feeling one's own unease as a signal | "Something is off here" — an internal bodily signal, to be treated as a hypothesis to test, never a verdict | theme 1 synthesis |
 
@@ -111,7 +111,7 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 |---|---|---|---|
 | H6 | 「本当に気にかけてくれている」と感じられること | 同一の言葉でも人間からの方が価値が上がる。AIと知るだけで感じる共感が下がる＝帰属効果 | Rubin 2025 ⚠️ |
 | H7 | 深い開示を引き出すこと | 豊かで本物の具体的な語りは、関係の中で築くラポールが前提 | 質的研究 🔍 |
-| H8 | リアルタイムの関係調整 | 目の前の相手に合わせ間合い・タイミング・次の問いを変える**共鳴**の機能。嘘の検出**ではない**（人間は54%） | Bond & DePaulo 2006 ✅（オープンアクセスのLevine 2021で確認） |
+| H8 | リアルタイムの関係調整 | 目の前の相手に合わせ間合い・タイミング・次の問いを変える**共鳴**の機能。嘘の検出**ではない**（人間は54%） | Bond & DePaulo 2006 ⚠️AI確認済み（オープンアクセスのLevine 2021経由）・人間確認待ち |
 | H9 | 文脈の中での重要度の仕分け | どの発言が構造を支え、どれがノイズか。文字起こしに残らない文脈が要る | （理論的；テーマ4） |
 | H10 | 自分の違和感をシグナルとして感じること | 「何かおかしい」は身体の内的シグナル。**検証すべき仮説**として扱い、判定には使わない | テーマ1統合 |
 

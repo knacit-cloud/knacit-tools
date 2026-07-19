@@ -56,8 +56,8 @@
 
 ## まだわからない・要検証（次にやること）
 
-- ✅【済 2026-07-19】「94.9%」はarXiv原典で確認。"full-knowledge recall"（実験設定内の指標）と判明。一般主張ではない旨を注記済み。
-- ✅【済 2026-07-19】Collins 3分類は査読済みOA論文（Soler & Zwart 2013）で定義を確認、要約は正確だった。原典書籍そのものの通読は任意。
+- ⚠️【AI確認済 2026-07-19】「94.9%」はarXiv原典で確認。"full-knowledge recall"（実験設定内の指標）と判明。一般主張ではない旨を注記済み。人間確認待ち。
+- ⚠️【AI確認済 2026-07-19】Collins 3分類は査読済みOA論文（Soler & Zwart 2013）で定義を確認、要約は正確だった。原典書籍そのものの通読は任意。人間確認待ち。
 - 身体的暗黙知は Theme 1（身体性）と重なる → 統合時に整理。
 - 「プルリクを感じで見抜く」系の逸話は魅力的だが逸話。定量研究を探す。
 
@@ -66,10 +66,10 @@
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
 | A | AIがトップ層の暗黙知を新人に波及（+14%/+34%） | https://www.nber.org/papers/w31161 | ✅（検証済み・台帳既存） |
-| B | LLMエージェントが暗黙知を反復抽出（94.9% full-knowledge recall と報告） | https://arxiv.org/abs/2507.03811 （Zuin, Mastelini, Loures & Veloso 2025, IJCNN 2025採択） | ✅（2026-07-19：arXiv原典で確認。94.9%は"full-knowledge recall"＝反復対話で回収できた知識の割合。実験設定内の指標であり「現実組織でAIが暗黙知を94.9%抽出する」という一般主張ではない点に注意。二次リンクemergentmindから一次arXivへ差替済み） |
-| C | Collins: 関係的/身体的/集合的の3分類 | 原典＝Collins, *Tacit and Explicit Knowledge* (Univ. of Chicago Press, 2010, 書籍)。**無料で読める裏付け**→ https://journals.openedition.org/philosophiascientiae/892?lang=en （Soler & Zwart, *Philosophia Scientiæ* 17-3, 2013, 査読済みOA） | ✅（2026-07-19：OA論文で3分類の定義を確認——関係的「明示化できるがされていない」／身体的「筋肉・神経経路・シナプスに蓄えられた」／集合的「社会に宿る・個人でなく社会の属性」。テーマノートの要約と一致。二次ブログから差替済み） |
-| D | 医学教育: 暗黙知の伝達は師弟の密な相互作用が必要 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ （Cureus 2025, doi:10.7759/cureus.102205） | ✅（2026-07-19：PMC全文読了。「知識の伝達には信頼と師弟の持続的な密接な相互作用が不可欠」「教師と同席しない学習者は技能再現に失敗しやすい」と明記。※実証研究ではなくPolanyiを引く**論説(Editorial)**である点は明示すること。この論説自体がPolanyi核 "we know more than we can tell" を引用＝C/E/Fのアンカーにも使える） |
+| B | LLMエージェントが暗黙知を反復抽出（94.9% full-knowledge recall と報告） | https://arxiv.org/abs/2507.03811 （Zuin, Mastelini, Loures & Veloso 2025, IJCNN 2025採択） | ⚠️AI確認済み・人間確認待ち（2026-07-19：arXiv原典で確認。94.9%は"full-knowledge recall"＝反復対話で回収できた知識の割合。実験設定内の指標であり「現実組織でAIが暗黙知を94.9%抽出する」という一般主張ではない点に注意。二次リンクemergentmindから一次arXivへ差替済み） |
+| C | Collins: 関係的/身体的/集合的の3分類 | 原典＝Collins, *Tacit and Explicit Knowledge* (Univ. of Chicago Press, 2010, 書籍)。**無料で読める裏付け**→ https://journals.openedition.org/philosophiascientiae/892?lang=en （Soler & Zwart, *Philosophia Scientiæ* 17-3, 2013, 査読済みOA） | ⚠️AI確認済み・人間確認待ち（2026-07-19：OA論文で3分類の定義を確認——関係的「明示化できるがされていない」／身体的「筋肉・神経経路・シナプスに蓄えられた」／集合的「社会に宿る・個人でなく社会の属性」。テーマノートの要約と一致。二次ブログから差替済み） |
+| D | 医学教育: 暗黙知の伝達は師弟の密な相互作用が必要 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ （Cureus 2025, doi:10.7759/cureus.102205） | ⚠️AI確認済み・人間確認待ち（2026-07-19：PMC全文読了。「知識の伝達には信頼と師弟の持続的な密接な相互作用が不可欠」「教師と同席しない学習者は技能再現に失敗しやすい」と明記。※実証研究ではなくPolanyiを引く**論説(Editorial)**である点は明示すること。この論説自体がPolanyi核 "we know more than we can tell" を引用＝C/E/Fのアンカーにも使える） |
 | E | 暗黙知・身体知は訓練データに存在し得ない（Polanyi論） | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292030 （Garg & Gohil, "Can AI understand Tacit Knowledge?", SSRNワーキングペーパー, 2025-06-13） | ⚠️（2026-07-19：書誌は特定済み。SSRNは機械アクセス拒否(403)のため本文未読——人間はブラウザで無料DL可。**査読前ワーキングペーパーで根拠として弱い**。同じ主張はC(Soler & Zwart)＋D(Cureus)＋F(Kambhampati)で十分カバー済み→引用は任意、外しても分類は成立） |
-| F | ニューラルネット自身が「語れない知」を持つ（問題の移動＝Polanyiの逆襲） | 著者公開PDF: https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf （Kambhampati, "Polanyi's Revenge and AI's New Romance with Tacit Knowledge", CACM 64(2):31-32, 2021, doi:10.1145/3446369） | ✅（2026-07-19：全文読了。「解釈可能性・バイアス・頑健性の問題は、データから暗黙知を学ぶ一極集中に直接遡れる」「生データから独自表現を学ぶ推論は解釈可能である理由がない」を本文確認。著者＝元AAAI会長。二次ブログから原典へ差替済み） |
+| F | ニューラルネット自身が「語れない知」を持つ（問題の移動＝Polanyiの逆襲） | 著者公開PDF: https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf （Kambhampati, "Polanyi's Revenge and AI's New Romance with Tacit Knowledge", CACM 64(2):31-32, 2021, doi:10.1145/3446369） | ⚠️AI確認済み・人間確認待ち（2026-07-19：全文読了。「解釈可能性・バイアス・頑健性の問題は、データから暗黙知を学ぶ一極集中に直接遡れる」「生データから独自表現を学ぶ推論は解釈可能である理由がない」を本文確認。著者＝元AAAI会長。二次ブログから原典へ差替済み） |
 
-*【2026-07-19 更新】C・Fは二次ブログから原典（Soler & Zwart 2013 OA／Kambhampati CACM 2021 著者PDF）へ差替済み。Bの飛び抜けた数字も原典確認済み（実験内指標と判明）。残る⚠️はEのみ（弱い出典・代替可能）。*
+*【2026-07-19 更新】C・Fは二次ブログから原典（Soler & Zwart 2013 OA／Kambhampati CACM 2021 著者PDF）へ差替済み。Bの飛び抜けた数字も原典で確認（実験内指標と判明）。B/C/D/FはAI全文確認済み・人間確認待ち（README の確認キュー参照）。Eのみ弱い出典（代替可能・任意）。*
