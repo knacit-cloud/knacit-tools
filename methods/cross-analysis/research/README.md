@@ -21,7 +21,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | not started |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | not started |
-| 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | not started |
+| 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | not started |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | not started |
 
@@ -38,6 +38,13 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 | Heavy AI use correlates negatively with critical thinking (n=666, cognitive offloading mediates) | Gerlich, *Societies* 2025 | https://www.mdpi.com/2075-4698/15/1/6 | ✅ |
 | Higher trust in AI → less critical-thinking effort (319 knowledge workers, 936 examples) | Lee et al., *CHI* 2025 | https://dl.acm.org/doi/full/10.1145/3706598.3713778 | ✅ |
 | Third-party evaluators rated AI responses *more* compassionate than expert humans — **counterevidence** | (PMC 2025, authors TBC) | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11723910/ | 🔍 |
+| **[Empathy theme, 2026-07-19]** Identical messages rated more empathic when human-attributed; gap in affective/motivational, not cognitive (n=6,282) | Rubin et al., *Nature Human Behaviour* 2025 | https://www.nature.com/articles/s41562-025-02247-w | 🔍 |
+| Blinded evaluators preferred ChatGPT over physicians 78.6%; "empathetic" 9.8× — **counterevidence** (confound: AI 4× longer, raters were coauthors) | Ayers et al., *JAMA Internal Medicine* 2023 | https://each.international/wp-content/uploads/2023/05/jamainternal_ayers_2023_oi_230030_1681999216.70842.pdf | 🔍 |
+| AI rated more compassionate than humans incl. crisis experts (N=556, d=0.73); persists when disclosed — **counterevidence** | *Nature* (Communications Psych) 2024 | https://www.nature.com/articles/s44271-024-00182-6 | 🔍 |
+| Meta-analysis 13 studies: AI empathy > human clinicians SMD 0.87 (GPT-4 sig, GPT-3.5 not); all text/proxy — **counterevidence** | Meta-analysis, PMC 2025 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ | 🔍 |
+| Clinician blind eval: AI > experts on affective (OR 1.79)/motivational (OR 1.84) empathy; but perceived-authorship drove 93.55% of preference (attribution mechanism) | *ScienceDirect* 2025 | https://www.sciencedirect.com/science/article/pii/S2214782925000429 | 🔍 |
+| ChatGPT scored above human norms on LEAS emotional awareness; authors caution ≠ "feeling felt" | PMC 2023 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | 🔍 |
+| LLM relationship advice rated higher than human on cognitive/motivational empathy — **preprint, treat with caution** | arXiv preprint 2026 | https://arxiv.org/pdf/2602.17293 | 🔍 |
 
 ✅ entries were verified during the Knacit philosophy-page project (June 2026) — see `DIAGNOSIS-ROADMAP.md` §8 (private) and [the-fabricated-citation.md](../the-fabricated-citation.md).
 
