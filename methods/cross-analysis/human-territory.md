@@ -30,16 +30,16 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 |---|---|---|---|
 | H1 | Being answerable for a judgment | Responsibility is a social status, not a skill; delegated to a machine it doesn't transfer — it vanishes ("irreducibly human") | Radanliev 2026 ⚠️ |
 | H2 | Staking oneself — a judgment backed by someone who can feel regret, loss, disappointment | AI cannot suffer its own failure, and the other party knows it; trust is built on cost | responsibility-gap literature ⚠️ |
-| H3 | Physically grounding cognition in a situation (five senses, fatigue, felt uncertainty) | Cognition is structured by having a body; not fixable by adding sensors | embodied-cognition literature 🔍 |
-| H4 | Somatic tacit knowledge (skills carried in the body) | Cannot be rendered propositional → can never appear in training data | Polanyi; Collins taxonomy 🔍 |
-| H5 | Collective tacit knowledge (know-how living in shared practices) | Extractable from no individual; transmitted only by participation | Collins taxonomy; medical-education studies 🔍 |
+| H3 | Physically grounding cognition in a situation (five senses, fatigue, felt uncertainty) | Cognition is structured by having a body; not fixable by adding sensors | Kadambi et al. (Neuron 2026); Ziemke 2016 ⚠️ |
+| H4 | Somatic tacit knowledge (skills carried in the body) | Cannot be rendered propositional → can never appear in training data | Collins taxonomy (Soler & Zwart 2013) ⚠️ |
+| H5 | Collective tacit knowledge (know-how living in shared practices) | Extractable from no individual; transmitted only by participation | Collins taxonomy; medical-education editorial (Cureus 2026) ⚠️ |
 
 ### Humans in practice — relational advantages (robust today, theory-backed)
 
 | # | Capability | Precise statement | Evidence |
 |---|---|---|---|
 | H6 | Being felt as genuinely caring | Identical words are worth more from a human; knowing AI wrote it lowers felt empathy — an attribution effect, not a quality gap | Rubin 2025 ⚠️ |
-| H7 | Eliciting deep disclosure | Rich, authentic, specific accounts require rapport built in relation | qualitative-research literature 🔍 |
+| H7 | Eliciting deep disclosure | **Weaker than first claimed** — the "rapport→depth" premise is contested (Rao 2026) and "humans elicit richer accounts" has no clean primary yet; provisionally carried by H6/H8, not proven | contested, see theme 4 ⚠️ |
 | H8 | Real-time relational adjustment | Adjusting distance, timing, and follow-up questions to the person in front of you — a *resonance* function, **not** lie detection (humans: 54%) | Bond & DePaulo 2006 ⚠️ AI-checked via open-access Levine 2021, awaiting human check |
 | H9 | Salience judgment in context | Deciding which remark is load-bearing and which is noise requires context no transcript carries | (theoretical; theme 4) |
 | H10 | Feeling one's own unease as a signal | "Something is off here" — an internal bodily signal, to be treated as a hypothesis to test, never a verdict | theme 1 synthesis |
@@ -49,7 +49,7 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 | # | Capability | Precise statement | Evidence |
 |---|---|---|---|
 | A1 | Written empathy (content quality) | AI-written responses often rated more empathic/compassionate than physicians and even crisis experts (text, proxy raters; length/setting confounds noted) | Ayers 2023 ⚠️; Ovsyannikova 2025 ⚠️; Howcroft 2025 ⚠️ |
-| A2 | Cognitive empathy (understanding & articulating a situation) | Matches experts under blinding | ScienceDirect 2025 🔍 |
+| A2 | Cognitive empathy (understanding & articulating a situation) | Matches experts under blinding | Internet Interventions 2025 (PMC12169703) ⚠️ |
 | A3 | Receiving embarrassing facts | Judgment-free perception lowers disclosure fear; machines can collect what shame blocks | Lucas 2014 ⚠️ |
 | A4 | Relational tacit knowledge (codifiable but uncodified) | Iterative AI interviewing can externalize it; this is what "AI diffuses tacit knowledge" actually refers to | Brynjolfsson 2025 ✅ |
 | A5 | Systematic recording & multimodal analysis | Coverage and consistency favor machines | theme 1 |
@@ -60,8 +60,8 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 |---|---|---|
 | W1 | Humans over-trust AI output — experts drop from 82%→45% when AI suggests wrong answers | Dratsch 2023 ✅ |
 | W2 | Heavy AI use correlates with weaker critical thinking (offloading) | Gerlich 2025 ✅; Lee 2025 ✅ |
-| W3 | Humans use AI as a blame shield for unpleasant decisions ("the AI decided") | Frontiers in Psychology 2022 🔍 |
-| W4 | Simulated empathy invites misattributing moral agency, weakening scrutiny of the humans actually responsible | governance literature 🔍 |
+| W3 | Humans *may* use AI as a blame shield for unpleasant decisions — but the experimental effect is weak & conditional; algorithm aversion often dominates | Maasland & Weißmüller 2022 ⚠️ |
+| W4 | Attributing agency to AI can lower humans' perceived responsibility (AI as a "moral crumple zone") | Hohenstein & Jung 2020 ⚠️ |
 
 ## One-line synthesis
 
@@ -101,16 +101,16 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 |---|---|---|---|
 | H1 | 判断に answerable であること | 責任は能力でなく社会的地位。機械に委ねると移らず**消える**（"irreducibly human"） | Radanliev 2026 ⚠️ |
 | H2 | 自分を賭けること——後悔・損失・失望を感じうる者の判断 | AIは自分の失敗に苦しめず、相手もそれを知っている。信頼はコストの上に立つ | 責任ギャップ研究 ⚠️ |
-| H3 | 五感・疲労・違和感ごと状況に接地する認知 | 認知は身体を持つことで構造化される。センサー追加では埋まらない | 身体化認知研究 🔍 |
-| H4 | 身体的暗黙知（身体に宿る技能） | 命題化できない→訓練データに原理的に存在し得ない | Polanyi；Collins分類 🔍 |
-| H5 | 集合的暗黙知（実践に宿るノウハウ） | どの個人からも抽出できず、参加によってのみ伝わる | Collins分類；医学教育研究 🔍 |
+| H3 | 五感・疲労・違和感ごと状況に接地する認知 | 認知は身体を持つことで構造化される。センサー追加では埋まらない | Kadambi et al.（Neuron 2026）；Ziemke 2016 ⚠️ |
+| H4 | 身体的暗黙知（身体に宿る技能） | 命題化できない→訓練データに原理的に存在し得ない | Collins分類（Soler & Zwart 2013） ⚠️ |
+| H5 | 集合的暗黙知（実践に宿るノウハウ） | どの個人からも抽出できず、参加によってのみ伝わる | Collins分類；医学教育論説（Cureus 2026） ⚠️ |
 
 ### 実践的に人間が優位（関係の領域）
 
 | # | 能力 | 精密な言い方 | 根拠 |
 |---|---|---|---|
 | H6 | 「本当に気にかけてくれている」と感じられること | 同一の言葉でも人間からの方が価値が上がる。AIと知るだけで感じる共感が下がる＝帰属効果 | Rubin 2025 ⚠️ |
-| H7 | 深い開示を引き出すこと | 豊かで本物の具体的な語りは、関係の中で築くラポールが前提 | 質的研究 🔍 |
+| H7 | 深い開示を引き出すこと | **当初より根拠は弱い**——「ラポール→深さ」前提は係争中(Rao 2026)、「人間の方が豊かに引き出す」は一次未特定。H6/H8で暫定的に支えるのみ・未証明 | 係争中（テーマ4参照） ⚠️ |
 | H8 | リアルタイムの関係調整 | 目の前の相手に合わせ間合い・タイミング・次の問いを変える**共鳴**の機能。嘘の検出**ではない**（人間は54%） | Bond & DePaulo 2006 ⚠️AI確認済み（オープンアクセスのLevine 2021経由）・人間確認待ち |
 | H9 | 文脈の中での重要度の仕分け | どの発言が構造を支え、どれがノイズか。文字起こしに残らない文脈が要る | （理論的；テーマ4） |
 | H10 | 自分の違和感をシグナルとして感じること | 「何かおかしい」は身体の内的シグナル。**検証すべき仮説**として扱い、判定には使わない | テーマ1統合 |
@@ -120,7 +120,7 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 | # | 能力 | 精密な言い方 | 根拠 |
 |---|---|---|---|
 | A1 | 書かれた共感（内容の質） | AIの回答は医師や危機対応専門家より共感的と評価されることが多い（テキスト・代理評価。長さ等の交絡は明記） | Ayers 2023 ⚠️；Ovsyannikova 2025 ⚠️；Howcroft 2025 ⚠️ |
-| A2 | 認知的共感（状況の理解と言語化） | 盲検下で専門家と同等 | ScienceDirect 2025 🔍 |
+| A2 | 認知的共感（状況の理解と言語化） | 盲検下で専門家と同等 | Internet Interventions 2025（PMC12169703） ⚠️ |
 | A3 | 恥ずかしい事実を受け取ること | 「判断されない」認知が開示恐怖を下げる。恥がブロックするものは機械が集められる | Lucas 2014 ⚠️ |
 | A4 | 関係的暗黙知（言語化可能なのに未言語化の層） | AIの反復インタビューで外在化できる。「AIが暗黙知を波及させる」の実体はこれ | Brynjolfsson 2025 ✅ |
 | A5 | 体系的な記録・マルチモーダル分析 | 網羅性と一貫性は機械の得意領域 | テーマ1 |
@@ -131,8 +131,8 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 |---|---|---|
 | W1 | 人間はAI出力を過信する——誤提案で専門家すら82%→45% | Dratsch 2023 ✅ |
 | W2 | AI多用は批判的思考の低下と相関（認知的オフロード） | Gerlich 2025 ✅；Lee 2025 ✅ |
-| W3 | 人間は嫌な決定の「責任の盾」にAIを使う（「AIが決めたので」） | Frontiers in Psychology 2022 🔍 |
-| W4 | 擬似共感は道徳的行為者性の誤帰属を招き、本来責任を負う人間への監視を弱める | ガバナンス研究 🔍 |
+| W3 | 人間は嫌な決定の「責任の盾」にAIを使い**うる**——ただし実験効果は弱く条件付き・アルゴリズム嫌悪が支配することも多い | Maasland & Weißmüller 2022 ⚠️ |
+| W4 | AIへの行為者性の帰属が人間側の責任知覚を下げうる（AIが"moral crumple zone"として機能） | Hohenstein & Jung 2020 ⚠️ |
 
 ## 一行の統合
 
