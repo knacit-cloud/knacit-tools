@@ -55,7 +55,7 @@
 
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
-| A | 委任された行為者性と道徳的責任：権限は移せるが責任は移せない | https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1800302/full | 🔍 |
+| A | 委任された行為者性と道徳的責任：権限は移せるが責任は移せない | https://doi.org/10.3389/frai.2026.1800302 | ⚠️（2026-07-19照合：Radanliev, Frontiers in AI 9 (2026), Oxford/Turing Institute。「道徳的責任は委任が進んでも irreducibly human」「責任は委任し設計した者に帰属し、実行の道具には帰属しない」を原文確認。補足：責任ギャップは機械の存在論でなく**制度の分断**から生じる、という精緻化あり） |
 | B | 責任ギャップ：AIと責任ある行為者性・脆弱性 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11153269/ | 🔍 |
 | C | 非難回避：嫌な決定（解雇）ほどアルゴリズムに委譲したがる | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.779028/full | 🔍 |
 | D | 機械のエラーは人間のエラーより厳しく評価される | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ | 🔍 |

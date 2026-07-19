@@ -60,9 +60,9 @@
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
 | A | 同一文章でも人間帰属の方が共感的（n=6,282, 差は感情/動機成分） | https://www.nature.com/articles/s41562-025-02247-w | ⚠️（2026-07-19照合：著者・9研究・n=6,282・主結果を要旨で確認。感情/動機 vs 認知の対比は"emotional sharing and care が主因"まで確認、本文精査が残） |
-| B | 医師 vs ChatGPT: 78.6%でAI選好・共感9.8倍（※4倍長い交絡） | https://each.international/wp-content/uploads/2023/05/jamainternal_ayers_2023_oi_230030_1681999216.70842.pdf | 🔍 |
+| B | 医師 vs ChatGPT: 78.6%でAI選好・共感9.8倍（※4倍長い交絡） | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148230/ | ⚠️（2026-07-19照合：Ayers et al., JAMA Internal Medicine 2023。195件/585評価/78.6% (CI 75.0-81.8)/45.1% vs 4.6%/211語 vs 52語/評価者が共著者である限界の明記、全て原文確認） |
 | C | AIが人間より思いやりと評価（N=556, d=0.73, 危機専門家超え） | https://www.nature.com/articles/s44271-024-00182-6 | ⚠️（2026-07-19照合：Ovsyannikova, Oldemburgo de Mello & Inzlicht, Communications Psychology 3:4 (2025)。全数値一致確認） |
-| D | メタ分析13研究: AI共感優位 SMD 0.87（GPT-4のみ有意） | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ | 🔍 |
+| D | メタ分析: AI共感優位 SMD 0.87（GPT-4のみ有意） | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ | ⚠️（2026-07-19照合：Howcroft et al., British Medical Bulletin 2025。15研究中13がメタ分析対象。SMD 0.87 (CI 0.54-1.20, P<.00001)/GPT-4 1.03有意・GPT-3.5 0.51非有意/全テキスト・代理評価・検証済み尺度1研究のみ・6研究が高バイアス、全て原文確認） |
 | E | 臨床家盲検: AIが感情/動機的共感で専門家超え・だが帰属が選好を駆動(93.55%) | https://www.sciencedirect.com/science/article/pii/S2214782925000429 | 🔍 |
 | F | ChatGPTがLEAS(感情認識)で人間規範超え・但し「分かってもらえた感」とは別と著者が明言 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | 🔍 |
 | G | LLM恋愛相談が人間超え(認知/動機的共感) ※プレプリント要注意 | https://arxiv.org/pdf/2602.17293 | 🔍 |
