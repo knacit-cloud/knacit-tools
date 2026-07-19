@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | not started |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | 🔍 evidence gathered, awaiting human verification |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | 🔍 evidence gathered, awaiting human verification |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | 🔍 evidence gathered, awaiting human verification |
@@ -41,6 +41,9 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 | **[Tacit knowledge theme, 2026-07-19]** Collins' 3 types: relational (codifiable) / somatic (bodily) / collective (in practices) — key to resolving the Brynjolfsson conflict | Collins, *Tacit and Explicit Knowledge* 2010 (via secondary) | https://davidlxu.github.io/posts/2026/04/michael-polanyi-tacit-knowledge-ai/ | 🔍 |
 | LLM agents extract tacit knowledge via iterative interviews (94.9% recall reported — verify this number) | arXiv 2507.03811 | https://www.emergentmind.com/papers/2507.03811 | 🔍 |
 | Tacit-knowledge transfer in medicine requires close mentor-learner interaction | PMC (medical education) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 🔍 |
+| **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | *AI & SOCIETY* 2026 | https://link.springer.com/article/10.1007/s00146-026-03000-1 | 🔍 |
+| Body is part of cognition's structure, not peripheral (embodied intelligence) | *Nature Machine Intelligence* 2026 | https://www.nature.com/articles/s42256-026-01239-3 | 🔍 |
+| Human deception detection ≈54% (nonverbal cues weak); micro-expression training ineffective — **limits our own Theme-4 claim** | DePaulo et al. 2003 meta-analysis (via secondary — locate primary) | https://psychology.town/general/detecting-deception-non-verbal-cues/ | 🔍 |
 | Wrong AI suggestions collapse expert accuracy 82.3%→45.5% (automation bias, 27 radiologists) | Dratsch et al., *Radiology* 2023 | https://pubs.rsna.org/doi/full/10.1148/radiol.222176 | ✅ |
 | AI assistance lifts productivity +14% (+34% for novices); mechanism is diffusing top performers' tacit knowledge | Brynjolfsson, Li & Raymond, *QJE* 2025 | https://www.nber.org/papers/w31161 | ✅ |
 | Heavy AI use correlates negatively with critical thinking (n=666, cognitive offloading mediates) | Gerlich, *Societies* 2025 | https://www.mdpi.com/2075-4698/15/1/6 | ✅ |
