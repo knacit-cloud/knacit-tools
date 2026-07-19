@@ -21,6 +21,7 @@ Practical tools built and published by [Knacit](https://knacit.com), free for an
 | [Cross-Analysis / クロス分析](methods/cross-analysis/README.md) | 客観データ×現場一次情報を突き合わせて真因を出す診断手法 / A diagnostic method that confronts objective data with field reality to surface root causes |
 | [Human-in-the-Loop の3原則](methods/cross-analysis/human-in-the-loop.md) | 検証済み研究に基づく、AIと働くための3つの運用原則 / Three evidence-based principles for working with AI |
 | [実在しなかった引用](methods/cross-analysis/the-fabricated-citation.md) | AIの捏造引用を発見した実話とチェックリスト / How we caught an AI-fabricated citation, and the checklist born from it |
+| [人間の領域](methods/cross-analysis/human-territory.md) | 人間にしかできないことの証拠ベース分類（反証込み） / An evidence-based classification of what only humans can do — counterevidence included |
 
 ### ツール / Tools
 

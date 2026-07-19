@@ -64,8 +64,10 @@ Why these rules exist — with numbers — is in [human-in-the-loop.md](human-in
 
 ## Related
 
+- [human-territory.md](human-territory.md) — the evidence-based classification of what only humans can do (and where AI wins) that underpins the A/B division of labor
 - [human-in-the-loop.md](human-in-the-loop.md) — the three principles (humans decide / verify AI output / preserve room to think) and the peer-reviewed evidence behind each
 - [the-fabricated-citation.md](the-fabricated-citation.md) — a first-person account of catching an AI-fabricated citation, and the checklist that came out of it
+- [research/](research/) — the running research log and verified-citation ledger behind the classification
 
 ---
 
