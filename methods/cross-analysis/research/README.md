@@ -10,7 +10,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 ## Rules
 
-1. **Real papers only.** Every claim needs a primary source (the paper itself, not a blog about it). AI assistants fabricate citations — [we caught one ourselves](../the-fabricated-citation.md).
+1. **Real papers only.** Every claim needs a primary source (the paper itself, not a blog about it). AI assistants fabricate citations — [we caught one ourselves](../the-fabricated-citation.md). **Where to look first: the [Source Registry](SOURCES.md)** — check Tier 1 (free full text) before searching; never cite Tier 3 (blogs).
 2. **Counterevidence is mandatory.** For every "humans are better at X" claim, we actively search for studies showing the opposite. A classification built only on flattering evidence is fiction.
 3. **Verification states:** 🔍 found, unverified → ⚠️ partially verified (paper exists, numbers unchecked) → ✅ human-verified against primary source.
 4. **Precision over slogans.** "People only open up to humans" is false as stated; the truth is finer (see ledger: disclosure vs. felt empathy). We record the precise version.
