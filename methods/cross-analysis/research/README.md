@@ -22,7 +22,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | not started |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | not started |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
-| 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | not started |
+| 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | 🔍 evidence gathered, awaiting human verification |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | not started |
 
 Themes will be split further as research gets granular (e.g., #3 may split into cognitive/affective/motivational empathy).
@@ -33,6 +33,11 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 |---|---|---|---|
 | Identical empathic messages are rated more empathic/authentic when attributed to a human; gap driven by *affective/motivational* empathy, not cognitive (9 studies, n>6,000) | Rubin et al., *Nature Human Behaviour* 2025 | https://www.nature.com/articles/s41562-025-02247-w | ⚠️ |
 | People disclose *more* stigmatizing info when they believe the interviewer is a computer (lower fear of judgment) — **counterevidence** | Lucas, Gratch, King & Morency, *Computers in Human Behavior* 2014 | https://www.sciencedirect.com/science/article/abs/pii/S0747563214002647 | ⚠️ |
+| **[Trust/disclosure theme, 2026-07-19]** Highly sensitive topics (ethnicity/cheating/income) disclosed more to avatars than humans | *Computers in Human Behavior* 2016 | https://www.sciencedirect.com/science/article/abs/pii/S0747563216305684 | 🔍 |
+| People disclose personal info to AI and humans *equivalently* | *ScienceDirect* 2025 | https://www.sciencedirect.com/science/article/pii/S2949882125000647 | 🔍 |
+| Chatbots seen as non-judgmental "safe space" for embarrassing disclosure | *Interacting with Computers* (Oxford) 2024 | https://academic.oup.com/iwc/article/36/5/279/7692197 | 🔍 |
+| Rapport is prerequisite for honest depth; without it only surface answers (human skill) | *Qualitative Sociology* 2025 | https://link.springer.com/article/10.1007/s11133-025-09619-8 | 🔍 |
+| Humans elicit richer/authentic negative examples; AI misses hesitation/sarcasm/tone | industry study (secondary — locate primary) | https://www.insightplatforms.com/ai-moderated-research-on-research-ai-vs-human-interviewers-effectiveness/ | 🔍 |
 | Wrong AI suggestions collapse expert accuracy 82.3%→45.5% (automation bias, 27 radiologists) | Dratsch et al., *Radiology* 2023 | https://pubs.rsna.org/doi/full/10.1148/radiol.222176 | ✅ |
 | AI assistance lifts productivity +14% (+34% for novices); mechanism is diffusing top performers' tacit knowledge | Brynjolfsson, Li & Raymond, *QJE* 2025 | https://www.nber.org/papers/w31161 | ✅ |
 | Heavy AI use correlates negatively with critical thinking (n=666, cognitive offloading mediates) | Gerlich, *Societies* 2025 | https://www.mdpi.com/2075-4698/15/1/6 | ✅ |
