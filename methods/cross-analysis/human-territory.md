@@ -10,11 +10,12 @@ What can only humans do and feel? A fine-grained classification built from peer-
 
 ## The method behind this document
 
-We did not start from "humans are special" and collect supporting quotes. For each theme we actively searched for **counterevidence** — studies where AI matches or beats humans — and let the classification follow the evidence. Three of our own initial claims did not survive:
+We did not start from "humans are special" and collect supporting quotes. For each theme we actively searched for **counterevidence** — studies where AI matches or beats humans — and let the classification follow the evidence. Four of our own initial claims did not survive:
 
 1. "Empathy is human-only" — false as stated. AI-written empathy is often rated *higher* (Ayers 2023; Ovsyannikova 2025; Howcroft 2025 meta-analysis).
 2. "People only open up to humans" — false as stated. Stigmatizing facts flow *more* easily to machines (Lucas 2014).
 3. "Humans read nonverbal cues" — misleading. Human deception detection averages 54% — barely above chance (Bond & DePaulo 2006).
+4. "Humans elicit *deeper* disclosure than AI" — not supported. Peer-reviewed studies find AI interviewers match or beat humans on informativeness and specificity (Xiao 2020; Barari 2025; Wieland 2026). The human edge is *trust* and catching idiosyncratic specifics — not depth.
 
 What survived is narrower, and stronger.
 
@@ -39,7 +40,7 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 | # | Capability | Precise statement | Evidence |
 |---|---|---|---|
 | H6 | Being felt as genuinely caring | Identical words are worth more from a human; knowing AI wrote it lowers felt empathy — an attribution effect, not a quality gap | Rubin 2025 ⚠️ |
-| H7 | Eliciting deep disclosure | **Weaker than first claimed** — the "rapport→depth" premise is contested (Rao 2026) and "humans elicit richer accounts" has no clean primary yet; provisionally carried by H6/H8, not proven | contested, see theme 4 ⚠️ |
+| H7 | Eliciting disclosure — *trust*, not raw depth | **Reframed (theme-4 rebuild)** — "humans elicit *deeper* accounts" is not supported; peer-reviewed evidence leans AI-favorable on informativeness (Xiao 2020; Barari 2025; Wieland 2026). What survives: people trust human interactants more (Croes 2024), and current LLMs miss idiosyncratic specifics / "richness" (Cuevas 2023/25) | theme 4 ⚠️ |
 | H8 | Real-time relational adjustment | Adjusting distance, timing, and follow-up questions to the person in front of you — a *resonance* function, **not** lie detection (humans: 54%) | Bond & DePaulo 2006 ⚠️ AI-checked via open-access Levine 2021, awaiting human check |
 | H9 | Salience judgment in context | Deciding which remark is load-bearing and which is noise requires context no transcript carries | (theoretical; theme 4) |
 | H10 | Feeling one's own unease as a signal | "Something is off here" — an internal bodily signal, to be treated as a hypothesis to test, never a verdict | theme 1 synthesis |
@@ -81,11 +82,12 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 
 ## この文書の作り方
 
-「人間は特別だ」から出発して都合のいい引用を集めたのではない。各テーマで**反証**——AIが人間に並ぶ・勝る研究——を積極的に探し、分類は証拠に従わせた。私たち自身の最初の主張のうち3つは生き残らなかった：
+「人間は特別だ」から出発して都合のいい引用を集めたのではない。各テーマで**反証**——AIが人間に並ぶ・勝る研究——を積極的に探し、分類は証拠に従わせた。私たち自身の最初の主張のうち4つは生き残らなかった：
 
 1. 「共感は人間だけ」——そのままでは偽。AIの書く共感はしばしば人間より高評価（Ayers 2023；Ovsyannikova 2025；Howcroft 2025メタ分析）。
 2. 「本音は人間にしか出さない」——そのままでは偽。恥ずかしい事実はむしろ機械に流れる（Lucas 2014）。
 3. 「人間は非言語を読める」——誤解を招く。人間の欺瞞検出は平均54%＝ほぼ偶然（Bond & DePaulo 2006）。
+4. 「人間の方が"深く"引き出す」——非支持。査読研究はAIインタビュアーが情報量・具体性で人間に並ぶ・勝ると示す（Xiao 2020；Barari 2025；Wieland 2026）。人間の優位は"深さ"でなく**信頼**と**固有の具体の察知**。
 
 生き残ったものは、より狭く、より強い。
 
@@ -110,7 +112,7 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 | # | 能力 | 精密な言い方 | 根拠 |
 |---|---|---|---|
 | H6 | 「本当に気にかけてくれている」と感じられること | 同一の言葉でも人間からの方が価値が上がる。AIと知るだけで感じる共感が下がる＝帰属効果 | Rubin 2025 ⚠️ |
-| H7 | 深い開示を引き出すこと | **当初より根拠は弱い**——「ラポール→深さ」前提は係争中(Rao 2026)、「人間の方が豊かに引き出す」は一次未特定。H6/H8で暫定的に支えるのみ・未証明 | 係争中（テーマ4参照） ⚠️ |
+| H7 | 開示を引き出す——"深さ"でなく"信頼" | **再定義（テーマ4立て直し）**——「人間の方が深く引き出す」は査読証拠に非支持（情報量はAI優位：Xiao 2020／Barari 2025／Wieland 2026）。残るのは①相手への信頼が人間で高い(Croes 2024)②現LLMは固有の具体=richnessを取りこぼす(Cuevas 2023/25) | テーマ4 ⚠️ |
 | H8 | リアルタイムの関係調整 | 目の前の相手に合わせ間合い・タイミング・次の問いを変える**共鳴**の機能。嘘の検出**ではない**（人間は54%） | Bond & DePaulo 2006 ⚠️AI確認済み（オープンアクセスのLevine 2021経由）・人間確認待ち |
 | H9 | 文脈の中での重要度の仕分け | どの発言が構造を支え、どれがノイズか。文字起こしに残らない文脈が要る | （理論的；テーマ4） |
 | H10 | 自分の違和感をシグナルとして感じること | 「何かおかしい」は身体の内的シグナル。**検証すべき仮説**として扱い、判定には使わない | テーマ1統合 |
