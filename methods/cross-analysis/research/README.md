@@ -19,11 +19,11 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | 🔍 evidence gathered, awaiting human verification |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | 🔍 evidence gathered, awaiting human verification |
-| 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | 🔍 evidence gathered, awaiting human verification |
-| 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | 🔍 evidence gathered, awaiting human verification |
-| 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | 🔍 evidence gathered, awaiting human verification |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026); awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension); awaiting human check |
+| 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified (counterevidence-heavy: AI often rated *more* empathic); awaiting human check |
+| 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
+| 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
 
 Themes will be split further as research gets granular (e.g., #3 may split into cognitive/affective/motivational empathy).
 
@@ -79,9 +79,9 @@ AIが全文確認済みの項目。**りょうまさんがリンクを開いて�
 | Blinded evaluators preferred ChatGPT over physicians 78.6%; "empathetic" 9.8× — **counterevidence** (confound: AI 4× longer, raters were coauthors) | Ayers et al., *JAMA Internal Medicine* 2023 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148230/ | ⚠️ AI-checked 2026-07-19: all figures confirmed against full text incl. coauthor-evaluator limitation |
 | ‼️ **DUPLICATE** of the Ovsyannikova row above (same DOI `s44271-024-00182-6`) — merge on human pass | *Communications Psychology* 3:4 (2025) | https://www.nature.com/articles/s44271-024-00182-6 | ⚠️ see the ⚠️ Ovsyannikova row above (AI-checked) |
 | Meta-analysis (15 studies, 13 pooled): AI empathy > human clinicians SMD 0.87 (GPT-4 sig, GPT-3.5 not); all text/proxy — **counterevidence** | Howcroft et al., *British Medical Bulletin* 2025 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ | ⚠️ AI-checked 2026-07-19: all figures and limitations confirmed against full text |
-| Clinician blind eval: AI > experts on affective (OR 1.79)/motivational (OR 1.84) empathy; but perceived-authorship drove 93.55% of preference (attribution mechanism) | *ScienceDirect* 2025 | https://www.sciencedirect.com/science/article/pii/S2214782925000429 | 🔍 |
-| ChatGPT scored above human norms on LEAS emotional awareness; authors caution ≠ "feeling felt" | PMC 2023 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | 🔍 |
-| LLM relationship advice rated higher than human on cognitive/motivational empathy — **preprint, treat with caution** | arXiv preprint 2026 | https://arxiv.org/pdf/2602.17293 | 🔍 |
+| Clinician blind eval: AI matched/exceeded experts on affective (OR 1.79)/motivational (OR 1.84) empathy; raters identified authorship at chance (45%) and preferred what they *believed* was expert-authored (93.55%) — **but actual AI authorship was also preferred (p=.002)**, so not belief-only | Internet Interventions 2025, doi:10.1016/j.invent.2025.100841 (= the ScienceDirect `S2214782925000429` paper) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/ | ⚠️ PMC full text read (03-E); "belief alone drives it" was overstated — corrected — human check pending |
+| ChatGPT scored above human norms on LEAS emotional awareness (85→98/100); authors caution this ≠ "feeling felt" | Elkins et al., *Frontiers in Psychology* 2023, doi:10.3389/fpsyg.2023.1199058 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | ⚠️ PMC full text read (03-F) — human check pending |
+| LLM relationship advice rated higher than human on cognitive/motivational empathy — **but no consistent advantage on *emotional* empathy** (supports the human-side classification) | Festor, Snels & Kleinberg, arXiv 2602.17293 (2026), CC BY 4.0 | https://arxiv.org/abs/2602.17293 | ⚠️ arXiv abstract confirmed (03-G); **unrefereed preprint — always flag when citing** — human check pending |
 
 ✅ entries were verified during the Knacit philosophy-page project (June 2026) — see `DIAGNOSIS-ROADMAP.md` §8 (private) and [the-fabricated-citation.md](../the-fabricated-citation.md).
 
