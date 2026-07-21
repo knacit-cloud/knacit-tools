@@ -39,7 +39,7 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 
 | # | Capability | Precise statement | Evidence |
 |---|---|---|---|
-| H6 | Being felt as genuinely caring | Identical words are worth more from a human; knowing AI wrote it lowers felt empathy — an attribution effect, not a quality gap | Rubin 2025 ⚠️ |
+| H6 | Being felt as genuinely caring — a *belief*, not a quality gap | Identical words are worth more from a human; the mere suspicion "an AI helped" lowers felt empathy, even under a human label — belief, not authorship, drives it. Effect is confined to affective/motivational empathy (cognitive empathy shows no gap). **Choice-evaluation paradox:** people consistently prefer receiving empathy from a human (57–62%) even though they rate AI's response as higher-quality and *more* effortful — cost-signaling alone doesn't explain the preference | Rubin 2025 ⚠️; Wenger, Cameron & Inzlicht 2026 ⚠️ |
 | H7 | Eliciting disclosure — *trust*, not raw depth | **Reframed (theme-4 rebuild)** — "humans elicit *deeper* accounts" is not supported; peer-reviewed evidence leans AI-favorable on informativeness (Xiao 2020; Barari 2025; Wieland 2026). What survives: people trust human interactants more (Croes 2024), and current LLMs miss idiosyncratic specifics / "richness" (Cuevas 2023/25) | theme 4 ⚠️ |
 | H8 | Real-time relational adjustment | Adjusting distance, timing, and follow-up questions to the person in front of you — a *resonance* function, **not** lie detection (humans: 54%) | Bond & DePaulo 2006 ⚠️ AI-checked via open-access Levine 2021, awaiting human check |
 | H9 | Salience judgment in context | Deciding which remark is load-bearing and which is noise requires context no transcript carries | (theoretical; theme 4) |
@@ -111,7 +111,7 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 
 | # | 能力 | 精密な言い方 | 根拠 |
 |---|---|---|---|
-| H6 | 「本当に気にかけてくれている」と感じられること | 同一の言葉でも人間からの方が価値が上がる。AIと知るだけで感じる共感が下がる＝帰属効果 | Rubin 2025 ⚠️ |
+| H6 | 「本当に気にかけてくれている」と感じられること——性能差ではなく"信念" | 同一の言葉でも人間からの方が価値が上がる。「AIが手伝ったかも」という自発的な疑いだけで、"人間"ラベルでも共感評価が下がる＝信念が動かす。効くのは感情的/動機的共感のみ（認知的共感では差なし）。**選択と評価の乖離パラドックス**：AIの反応の方が高品質・労力大と評価されても、人間からの共感を選好する（57〜62%）——コスト知覚だけでは選好を説明できない | Rubin 2025 ⚠️；Wenger, Cameron & Inzlicht 2026 ⚠️ |
 | H7 | 開示を引き出す——"深さ"でなく"信頼" | **再定義（テーマ4立て直し）**——「人間の方が深く引き出す」は査読証拠に非支持（情報量はAI優位：Xiao 2020／Barari 2025／Wieland 2026）。残るのは①相手への信頼が人間で高い(Croes 2024)②現LLMは固有の具体=richnessを取りこぼす(Cuevas 2023/25) | テーマ4 ⚠️ |
 | H8 | リアルタイムの関係調整 | 目の前の相手に合わせ間合い・タイミング・次の問いを変える**共鳴**の機能。嘘の検出**ではない**（人間は54%） | Bond & DePaulo 2006 ⚠️AI確認済み（オープンアクセスのLevine 2021経由）・人間確認待ち |
 | H9 | 文脈の中での重要度の仕分け | どの発言が構造を支え、どれがノイズか。文字起こしに残らない文脈が要る | （理論的；テーマ4） |
