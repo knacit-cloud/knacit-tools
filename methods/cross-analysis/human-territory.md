@@ -30,7 +30,7 @@ Across all five themes, the same shape emerged: **AI matches or beats humans whe
 | # | Capability | Why it stays human | Evidence |
 |---|---|---|---|
 | H1 | Being answerable for a judgment | Responsibility is a social status, not a skill; delegated to a machine it doesn't transfer — it vanishes ("irreducibly human") | [Radanliev 2026](https://doi.org/10.3389/frai.2026.1800302) ⚠️ |
-| H2 | Staking oneself — a judgment backed by someone who can feel regret, loss, disappointment | AI cannot suffer its own failure, and the other party knows it; trust is built on cost | [responsibility-gap lit. (Frontiers AI 2026)](https://doi.org/10.3389/frai.2026.1800302) ⚠️ |
+| H2 | Staking oneself — a judgment backed by someone who can feel regret, loss, disappointment | AI cannot suffer its own failure, and the other party knows it; trust is built on cost | ⚠️ **conceptual — under-sourced.** Radanliev 2026 does **not** support this (verified 2026-07-25: that paper argues H1's answerability, not an affective-cost / skin-in-the-game argument). Nearest empirical is costly-signaling ([Yu, Berg & Zlatev 2021](https://www.sciencedirect.com/science/article/abs/pii/S0749597821000194)) — but human–human only, untested for AI |
 | H3 | Physically grounding cognition in a situation (five senses, fatigue, felt uncertainty) | Cognition is structured by having a body; not fixable by adding sensors | [Kadambi et al., Neuron 2026](https://arxiv.org/abs/2510.13845); [Ziemke 2016](https://www.sciencedirect.com/science/article/pii/S030326471630168X) ⚠️ |
 | H4 | Somatic tacit knowledge (skills carried in the body) | Cannot be rendered propositional → can never appear in training data | [Collins taxonomy (Soler & Zwart 2013)](https://journals.openedition.org/philosophiascientiae/892?lang=en) ⚠️ |
 | H5 | Collective tacit knowledge (know-how living in shared practices) | Extractable from no individual; transmitted only by participation | [Collins taxonomy](https://journals.openedition.org/philosophiascientiae/892?lang=en); [med-ed editorial (Cureus 2026)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/) ⚠️ |
@@ -102,7 +102,7 @@ This is why [Cross-Analysis](README.md) assigns the A-axis (data) to AI-assisted
 | # | 能力 | なぜ人間に残るか | 根拠 |
 |---|---|---|---|
 | H1 | 判断に answerable であること | 責任は能力でなく社会的地位。機械に委ねると移らず**消える**（"irreducibly human"） | [Radanliev 2026](https://doi.org/10.3389/frai.2026.1800302) ⚠️ |
-| H2 | 自分を賭けること——後悔・損失・失望を感じうる者の判断 | AIは自分の失敗に苦しめず、相手もそれを知っている。信頼はコストの上に立つ | [責任ギャップ研究（Frontiers AI 2026）](https://doi.org/10.3389/frai.2026.1800302) ⚠️ |
+| H2 | 自分を賭けること——後悔・損失・失望を感じうる者の判断 | AIは自分の失敗に苦しめず、相手もそれを知っている。信頼はコストの上に立つ | ⚠️ **概念的・出典不足。** Radanlievはこれを支持しない（2026-07-25確認：同論文はH1のanswerabilityを論じ、感情的コスト／skin-in-the-gameの議論はしていない）。最も近い実証は costly-signaling（[Yu, Berg & Zlatev 2021](https://www.sciencedirect.com/science/article/abs/pii/S0749597821000194)）だが人間同士のみ・AIでは未検証 |
 | H3 | 五感・疲労・違和感ごと状況に接地する認知 | 認知は身体を持つことで構造化される。センサー追加では埋まらない | [Kadambi et al.（Neuron 2026）](https://arxiv.org/abs/2510.13845)；[Ziemke 2016](https://www.sciencedirect.com/science/article/pii/S030326471630168X) ⚠️ |
 | H4 | 身体的暗黙知（身体に宿る技能） | 命題化できない→訓練データに原理的に存在し得ない | [Collins分類（Soler & Zwart 2013）](https://journals.openedition.org/philosophiascientiae/892?lang=en) ⚠️ |
 | H5 | 集合的暗黙知（実践に宿るノウハウ） | どの個人からも抽出できず、参加によってのみ伝わる | [Collins分類](https://journals.openedition.org/philosophiascientiae/892?lang=en)；[医学教育論説（Cureus 2026）](https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/) ⚠️ |
