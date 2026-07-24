@@ -29,22 +29,43 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 
 ## Human spot-check queue / 人間確認キュー
 
-AIが全文確認済みの項目。**りょうまさんがリンクを開いて確認欄の内容が本当に書いてあるか見たら、該当エントリを ✅ に上げる。**全て無料で読める。
+AIが確認済みの項目。**りょうまさんがリンクを開いて「確認すること」欄が本当に書いてあるか見たら、`☐`→`✅` にして、該当テーマ台帳のエントリも ✅ に上げる。** 上から順に潰せる。★＝主張の柱（優先）。
+（最終更新 2026-07-25：①の下ごしらえ＝無料版リンクの追加・書誌確定・重複解消を反映済み）
 
-| リンク（無料全文） | 確認すること | 上げる先 |
-|---|---|---|
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006を引いて「chanceをわずかに上回る・真実バイアス」②視線回避等の手がかりは「診断的価値を欠く」 | Theme1 E1/E2・本台帳2行・human-territory H8 |
-| https://arxiv.org/abs/2507.03811 | 要旨に "94.9% full-knowledge recall" | Theme2 B |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial） | Theme2 D |
-| https://journals.openedition.org/philosophiascientiae/892?lang=en | Collins 3分類の定義（関係的／身体的／集合的） | Theme2 C |
-| https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | LEAS 85→98/100・「患者が"分かってもらえた"と感じるかは別」 | Theme3 F |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/ | OR=1.79/1.84・93.55%・識別45% | Theme3 E |
-| https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
-| https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
-| https://link.springer.com/article/10.1007/s11133-025-09619-8 | ラポール前提への**批判**であること（＝当初の引用が逆向きだった確認） | Theme4 F |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ | 委譲差4.4pt・事前テスト−15.1pt・「嫌悪が非難回避に勝る」＋機械エラーが不釣り合いに負に知覚される旨の記述 | Theme5 C/D |
-| https://pmc.ncbi.nlm.nih.gov/articles/PMC11153269/ | 「認識・制御条件はred herring」「many hands→answerableな役割の不在」 | Theme5 B |
+### A. 無料で読める（優先度順・★＝柱）
+| ✓ | リンク（無料全文） | 確認すること | 上げる先 |
+|---|---|---|---|
+| ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | 「internal＋external embodiment の2要素」「テキストのみのMLLMは身体経験を欠く」 | Theme1 B・human-territory H3 |
+| ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
+| ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
+| ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間からの共感を選好(57〜62%)する一方、AIの反応を高品質・労力大と評価＝選択と評価の乖離 | Theme3 H・human-territory H6 |
+| ☐ | ★ https://www.nature.com/articles/s44271-024-00182-6 （Communications Psychology, OA） | AIが人間より思いやりと評価(d=0.73)・危機専門家超え・開示後も優位残存 | Theme3 C |
+| ☐ | http://multicomp.cs.cmu.edu/its-only-a-computer-virtual-humans-increase-willingness-to-disclose/ （Lucas 2014・SD版はペイウォール） | コンピュータと信じると開示恐怖↓・印象管理↓・悲しみ表出↑ | Theme4 A・human-territory A3 |
+| ☐ | https://research.tudelft.nl/en/publications/tapping-into-key-drivers-self-disclosure-in-sensitive-health-conv/ （Kelly 2025・T&F版はペイウォール） | 機微度が高いほど開示意向が下がる（N=216） | Theme4 E |
+| ☐ | https://arxiv.org/abs/1905.10700 （Xiao 2020・TOCHI版の無料preprint） | チャットボットの会話型調査がWeb調査よりGricean指標で有意に高品質 | Theme4 H |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148230/ （Ayers 2023） | 78.6%でAI選好・共感9.8倍・※AIが4倍長い交絡・評価者が共著者 | Theme3 B |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12536877/ （Howcroft 2025メタ分析） | AI共感優位SMD 0.87・GPT-4のみ有意・全テキスト代理評価 | Theme3 D |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12169703/ | OR=1.79/1.84・93.55%・識別45%（＝偶然水準） | Theme3 E |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | LEAS 85→98/100・「患者が"分かってもらえた"と感じるかは別」 | Theme3 F |
+| ☐ | https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
+| ☐ | https://journals.openedition.org/philosophiascientiae/892?lang=en | Collins 3分類の定義（関係的／身体的／集合的） | Theme2 C |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial） | Theme2 D |
+| ☐ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
+| ☐ | https://arxiv.org/abs/2507.03811 | "94.9% full-knowledge recall" が**864回の合成SIシミュレーション**の値であること（実社会データではない）（※プレプリント） | Theme2 B |
+| ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
+| ☐ | https://link.springer.com/article/10.1007/s11133-025-09619-8 | ラポール前提への**批判**であること（＝当初の引用が逆向きだった確認） | Theme4 F |
+| ☐ | https://arxiv.org/abs/2504.13908 （Barari・※査読前プレプリント） | AIの追い問いで開示が詳細・情報豊富に（UXはわずか低下、N=1,800） | Theme4 I |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ （Maasland "Blame the Machine?"） | 委譲差4.4pt・事前テスト−15.1pt・「嫌悪が非難回避に勝る」（※「機械エラーが厳しく裁かれる」はこの論文の知見**ではない**——誤帰属として除去済み） | Theme5 C |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11153269/ | 「認識・制御条件はred herring」「many hands→answerableな役割の不在」 | Theme5 B |
+
+### B. 無料版なし（機関アクセス／要旨止まり／著者連絡が必要）
+これらはClaudeが無料版を探したが見つからなかった。優先度は本文の重みで判断を。
+| ✓ | 出典 | 状況 | 上げる先 |
+|---|---|---|---|
+| ☐ | Rubin et al. 2025, *Nature Human Behaviour* (s41562-025-02247-w) | **柱だが**Nature本誌ペイウォール。要旨＋HBS要約で方向は確認済み、数値の本文確認が残る | Theme3 A・human-territory H6 |
+| ☐ | Ziemke 2016, *Biosystems* 148:4-11 | SDペイウォール・無料版なし。PubMed要旨止まり、または著者連絡(tom.ziemke@liu.se) | Theme1 D |
+| ☐ | Pickard, Roster & Chen 2016, *CHB* 65:23-30 | SDペイウォール・無料版なし（Crossrefで書誌のみ確定） | Theme4 B |
+| ☐ | 01-A Twyman & O'Donnell / 01-C NMI社説 | ペイウォール。ただし**両方ジャンルが弱い（意見コラム・社説）**ので優先度低 | Theme1 A/C |
 
 ## Verified-citation ledger / 検証済み台帳
 
