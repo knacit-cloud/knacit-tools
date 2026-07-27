@@ -30,19 +30,19 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 ## Human spot-check queue / 人間確認キュー
 
 AIが確認済みの項目。**りょうまさんがリンクを開いて「確認すること」欄が本当に書いてあるか見たら、`☐`→`✅` にして、該当テーマ台帳のエントリも ✅ に上げる。** 上から順に潰せる。★＝主張の柱（優先）。
-（最終更新 2026-07-25：①の下ごしらえ＝無料版リンクの追加・書誌確定・重複解消を反映済み）
+（最終更新 2026-07-26：③整合監査 第二パスを反映＝Kadambi/Jordanを全文確認・Jordanの無料全文を新規発見・Lucasの「無料全文」を撤回・Pickardを補助へ降格）
 
-**リンク健全性チェック済み（2026-07-25・自動）：** 全30リンクを検証。**別物リンク0・死リンク0**。取得できなかった6本（MDPI/ACM/ScienceDirect×3/CMU）はいずれも出版社側の自動アクセス拒否（403・自己署名証明書）で、**ブラウザなら開ける**もの——死リンクではない。この検証で著者名の誤り1件（Elkins→Elyoseph）を検出・訂正済み。※このチェックは「開ける・実在する・該当ページか」の事実確認のみで、主張の裏付け判断は人間が行う。
+**リンク健全性チェック済み（2026-07-25・自動）：** 全30リンクを検証。**別物リンク0・死リンク0**。取得できなかった6本（MDPI/ACM/ScienceDirect×3/CMU）は出版社側の自動アクセス拒否（403・自己署名証明書）と判断した。**⚠️この判断は1本外れていた（2026-07-26訂正）：CMU（Lucas 2014）は「ブラウザなら開ける」ではなく本当の死リンクだった**（証明書エラーを回避して取得し直したところ HTTP 404。別パスのPDFもUSC ICT版も404）。**教訓：「取得失敗＝出版社のブロック」と決めつけない。証明書エラーは中身の存在を保証しない。**この検証で著者名の誤り1件（Elkins→Elyoseph）を検出・訂正済み。※このチェックは「開ける・実在する・該当ページか」の事実確認のみで、主張の裏付け判断は人間が行う。
 
 ### A. 無料で読める（優先度順・★＝柱）
 | ✓ | リンク（無料全文） | 確認すること | 上げる先 |
 |---|---|---|---|
-| ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | 「internal＋external embodiment の2要素」「テキストのみのMLLMは身体経験を欠く」 | Theme1 B・human-territory H3 |
+| ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間からの共感を選好(57〜62%)する一方、AIの反応を高品質・労力大と評価＝選択と評価の乖離 | Theme3 H・human-territory H6 |
 | ☐ | ★ https://www.nature.com/articles/s44271-024-00182-6 （Communications Psychology, OA） | AIが人間より思いやりと評価(d=0.73)・危機専門家超え・開示後も優位残存 | Theme3 C |
-| ☐ | http://multicomp.cs.cmu.edu/its-only-a-computer-virtual-humans-increase-willingness-to-disclose/ （Lucas 2014・SD版はペイウォール） | コンピュータと信じると開示恐怖↓・印象管理↓・悲しみ表出↑ | Theme4 A・human-territory A3 |
+| ☐ | **NEW** https://pure.hud.ac.uk/ws/files/17720891/accepted_manuscript.pdf （Jordan et al. 2019 METT・著者版31頁／2026-07-26に発見） | 全体精度 M=.46（偶然50%を有意に下回る, p=.05）・群間差なし F(2,87)=0.22, p=.80・ベイズ因子≈21:1で「差なし」・**それでも微表情の識別自体は訓練で 37.9%→72.4% に向上**していた点 | Theme1 F・human-territory H8（否定側） |
 | ☐ | https://research.tudelft.nl/en/publications/tapping-into-key-drivers-self-disclosure-in-sensitive-health-conv/ （Kelly 2025・T&F版はペイウォール） | 機微度が高いほど開示意向が下がる（N=216） | Theme4 E |
 | ☐ | https://arxiv.org/abs/1905.10700 （Xiao 2020・TOCHI版の無料preprint） | チャットボットの会話型調査がWeb調査よりGricean指標で有意に高品質 | Theme4 H |
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148230/ （Ayers 2023） | 78.6%でAI選好・共感9.8倍・※AIが4倍長い交絡・評価者が共著者 | Theme3 B |
@@ -51,7 +51,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | LEAS 85→98/100・「患者が"分かってもらえた"と感じるかは別」 | Theme3 F |
 | ☐ | https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
 | ☐ | https://journals.openedition.org/philosophiascientiae/892?lang=en | Collins 3分類の定義（関係的／身体的／集合的） | Theme2 C |
-| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial） | Theme2 D |
+| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial）。**あわせて確認**：この論説は反AIではなく「AI/シミュレーションは有用な補助、ただし現行モデルは指導者を置き換えられない」が結論 | Theme2 D |
 | ☐ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
 | ☐ | https://arxiv.org/abs/2507.03811 | "94.9% full-knowledge recall" が**864回の合成SIシミュレーション**の値であること（実社会データではない）（※プレプリント） | Theme2 B |
 | ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
@@ -66,8 +66,9 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 |---|---|---|---|
 | ☐ | Rubin et al. 2025, *Nature Human Behaviour* (s41562-025-02247-w) | **柱だが**Nature本誌ペイウォール。要旨＋HBS要約で方向は確認済み、数値の本文確認が残る | Theme3 A・human-territory H6 |
 | ☐ | Ziemke 2016, *Biosystems* 148:4-11 | SDペイウォール・無料版なし。PubMed要旨止まり、または著者連絡(tom.ziemke@liu.se) | Theme1 D |
-| ☐ | Pickard, Roster & Chen 2016, *CHB* 65:23-30 | SDペイウォール・無料版なし（Crossrefで書誌のみ確定） | Theme4 B |
-| ☐ | 01-A Twyman & O'Donnell / 01-C NMI社説 | ペイウォール。ただし**両方ジャンルが弱い（意見コラム・社説）**ので優先度低 | Theme1 A/C |
+| ☐ | Pickard, Roster & Chen 2016, *CHB* 65:23-30 | SDペイウォール・無料版なし。**2026-07-26に3系統で再確認（unpaywall `is_oa:false`／OpenAlex `any_repository_has_fulltext:false`／Semantic Scholarは出版社が要旨自体を非公開）＝要旨さえ読めず③判定不能。単独の根拠にせず補助扱い**（同じ機構はTheme4 Dが全文で支える） | Theme4 B |
+| ☐ | **Lucas et al. 2014, *CHB* 37:94-100**（旧「CMUに無料全文あり」を撤回） | **2026-07-26：CMU記事ページ・CMUのPDF直リンク・USC ICTのPDFすべて404、unpaywall `is_oa:false`＝無料全文は現存しない。** 要旨は無料で読め、4項目（開示恐怖↓・印象管理↓・悲しみ表出↑・観察者評価の開示意欲↑）すべて原文で確認済み。人間確認も要旨止まりで可 | Theme4 A・human-territory A3 |
+| ☐ | 01-A Twyman & O'Donnell / 01-C NMI社説 | ペイウォール（nature.comは認証リダイレクトで機械アクセス不能）。**両方ジャンルが弱い（意見コラム・社説）＝主張の表明であって証拠ではないので③は△。単独の根拠にしない**（Theme1の実質アンカーはB） | Theme1 A/C |
 
 ## Verified-citation ledger / 検証済み台帳
 
