@@ -40,7 +40,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
-| ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間からの共感を選好(57〜62%)する一方、AIの反応を高品質・労力大と評価＝選択と評価の乖離 | Theme3 H・human-territory H6 |
+| ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間選好 57.1%(Study1)/62.1%(Study3)・**"AI empathy choice paradox" は著者の命名**・"the assumption that human empathy is perceived as more effortful is not supported"。**あわせて確認**：①労力自体は効いている（人間側で効果が強い）②25%はAIを選好 ③**比較対象の人間は関係のない他人（学部生RA）＝伴走関係との比較ではない**（著者が未解決と明記） | Theme3 H・human-territory H6 |
 | ☐ | ★ https://www.nature.com/articles/s44271-024-00182-6 （Communications Psychology, OA） | AIが人間より思いやりと評価(d=0.73)・危機専門家超え・開示後も優位残存 | Theme3 C |
 | ☐ | **NEW** https://pure.hud.ac.uk/ws/files/17720891/accepted_manuscript.pdf （Jordan et al. 2019 METT・著者版31頁／2026-07-26に発見） | 全体精度 M=.46（偶然50%を有意に下回る, p=.05）・群間差なし F(2,87)=0.22, p=.80・ベイズ因子≈21:1で「差なし」・**それでも微表情の識別自体は訓練で 37.9%→72.4% に向上**していた点 | Theme1 F・human-territory H8（否定側） |
 | ☐ | https://research.tudelft.nl/en/publications/tapping-into-key-drivers-self-disclosure-in-sensitive-health-conv/ （Kelly 2025・T&F版はペイウォール） | 機微度が高いほど開示意向が下がる（N=216） | Theme4 E |
@@ -56,7 +56,8 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | https://arxiv.org/abs/2507.03811 | "94.9% full-knowledge recall" が**864回の合成SIシミュレーション**の値であること（実社会データではない）（※プレプリント） | Theme2 B |
 | ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
 | ☐ | https://link.springer.com/article/10.1007/s11133-025-09619-8 | ラポール前提への**批判**であること（＝当初の引用が逆向きだった確認） | Theme4 F |
-| ☐ | https://arxiv.org/abs/2504.13908 （Barari・※査読前プレプリント） | AIの追い問いで開示が詳細・情報豊富に（UXはわずか低下、N=1,800） | Theme4 I |
+| ☐ | https://arxiv.org/abs/2504.13908 （Barari・※査読前プレプリント） | AIの追い問いで開示が詳細・情報豊富に（UXはわずか低下、N=1,800）。**あわせて**：自動コーディングは "moderate"・追従バイアスで偽陽性増 | Theme4 I |
+| ☐ | **NEW** https://hdl.handle.net/10125/111964 （Wieland et al. HICSS 2026・CC BY-NC-ND／2026-07-27に特定） | 語数 41.88→75.02→**106.02**（F(2,148)=13.45, p<.001, η²=.15）・主題数も文脈的プロービングが最多。**測っているのは語数と主題数＝量的指標で、開示の深さではない**点 | Theme4 J |
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ （Maasland "Blame the Machine?"） | 委譲差4.4pt・事前テスト−15.1pt・「嫌悪が非難回避に勝る」（※「機械エラーが厳しく裁かれる」はこの論文の知見**ではない**——誤帰属として除去済み） | Theme5 C |
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11153269/ | 「認識・制御条件はred herring」「many hands→answerableな役割の不在」 | Theme5 B |
 
