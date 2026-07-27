@@ -1,6 +1,6 @@
 # Theme 2: Tacit Knowledge — what can't be told? / 暗黙知 — 語れないものは移せるか
 
-**Status:** 🔍 evidence gathered (2026-07-19, via targeted WebSearch), awaiting human verification of primary sources.
+**Status:** ⚠️ AI-verified, awaiting human verification of primary sources. Evidence gathered 2026-07-19; **B demoted 2026-07-27 after reading it in full** (its 94.9% counts runs where every column *name* was mentioned, and its "employees" are LLM simulations holding fragments of an existing text), so the "AI can surface relational tacit knowledge" side now rests on Brynjolfsson alone. Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入).
 **Verification note:** All claims below are 🔍 unless noted — open each primary link before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
@@ -72,4 +72,6 @@
 | E | 暗黙知・身体知は訓練データに存在し得ない（Polanyi論） | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5292030 （Garg & Gohil, "Can AI understand Tacit Knowledge?", SSRNワーキングペーパー, 2025-06-13） | ⚠️**［要旨｜③△(格下げ)｜人間確認:SSRN・機械403］**（2026-07-25 ③監査で**格下げ**）：要旨を確認したところ、本論は「AIは暗黙知を理解できるか」を**問いとして探る思考実験**（Polanyi "we can know more than we can tell"）で、02-Eが掲げる強い断定「**訓練データに存在し得ない**」までは主張していない。かつ査読前WP・本文未読（SSRN 403）。**＝この行の強い主張の裏付けにはならない。強い主張はC(Soler & Zwart 査読)＋D(Cureus)＋F(Kambhampati 全文確認)が支える。02-Eは"話題が近い補助"に留め、単独の根拠に使わない（外しても分類は成立）** |
 | F | ニューラルネット自身が「語れない知」を持つ（問題の移動＝Polanyiの逆襲） | 著者公開PDF: https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf （Kambhampati, "Polanyi's Revenge and AI's New Romance with Tacit Knowledge", CACM 64(2):31-32, 2021, doi:10.1145/3446369） | ⚠️**［全文｜③✓｜人間確認:無料全文］**（2026-07-19：全文読了。「解釈可能性・バイアス・頑健性の問題は、データから暗黙知を学ぶ一極集中に直接遡れる」「生データから独自表現を学ぶ推論は解釈可能である理由がない」を本文確認。著者＝元AAAI会長。二次ブログから原典へ差替済み。**種別＝CACM Viewpoint（論説）だが、③整合は全文で確認済み（2026-07-25再確認）＝主張と一致**） |
 
-*【2026-07-19 更新】C・Fは二次ブログから原典（Soler & Zwart 2013 OA／Kambhampati CACM 2021 著者PDF）へ差替済み。Bの飛び抜けた数字も原典で確認（実験内指標と判明）。B/C/D/FはAI確認済み（B=要旨まで、C/D/F=全文）・人間確認待ち（README の確認キュー参照）。Eのみ弱い出典（代替可能・任意）。*
+*【2026-07-19 更新】C・Fは二次ブログから原典（Soler & Zwart 2013 OA／Kambhampati CACM 2021 著者PDF）へ差替済み。*
+
+*【2026-07-27 更新】**Bを全文で読み直して格下げ**——94.9%は「知識の回収率」ではなく「最終報告に全カラム名への言及があった実行の割合」、かつ被験者はLLMで模擬され配布される知識は既存テキストの断片だった（詳細は台帳B）。**この結果、AIが移せる側を実データで支えるのはA（Brynjolfsson・✅）のみになった。** 深度はB=全文／C=代替OA本文／D・F=全文。査読状態も訂正（Bは「プレプリント」ではなくIJCNN 2025出版済み）。Eは2026-07-25に補助へ格下げ済み。各行の状態は `［深度｜③｜人間確認］` を参照。*

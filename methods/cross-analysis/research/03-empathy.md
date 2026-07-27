@@ -1,7 +1,7 @@
 # Theme 3: Empathy — Is it really human territory? / 共感は本当に人間の領域か
 
-**Status:** ⚠️ AI-verified (2026-07-19 citation check + **2026-07-20 mechanism deep-research**, 110 agents, 3-vote adversarial verification: 25 claims tested → 15 confirmed / 10 refuted), awaiting human verification of primary sources.
-**Verification note:** Every claim below is AI-checked against primary sources but **not yet human-verified**. Do not publish any figure until the primary link is opened and checked. This is exactly the rule from [the-fabricated-citation.md](../the-fabricated-citation.md).
+**Status:** ⚠️ AI-verified (2026-07-19 citation check + **2026-07-20 mechanism deep-research**, 110 agents, 3-vote adversarial verification: 25 claims tested → 15 confirmed / 10 refuted), awaiting human verification of primary sources. **Claim-support audited 2026-07-27: K was cited backwards** — the paper found people judge a selfish decision-maker *more* responsible after following AI advice, the opposite of what this ledger said, and **the 3-vote deep-research had passed it 3-0**. J was narrowed to what it measured (helping intent toward a third party, not perceived empathy). H was confirmed in full, including the limit that its "human" comparison is a stranger, never someone the recipient has a relationship with.
+**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). Every claim is AI-checked against primary sources but **not yet human-verified**. Do not publish any figure until the primary link is opened and checked. This is exactly the rule from [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
 

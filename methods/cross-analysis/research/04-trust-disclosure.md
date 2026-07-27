@@ -1,7 +1,7 @@
 # Theme 4: Trust & Disclosure — who gets the truth? / 信頼と自己開示 — 誰が本音を引き出せるか
 
-**Status:** 🔍 evidence gathered (2026-07-19), **human-side rebuilt 2026-07-20** (depth-claim retired; anchored on trust + Cuevas "richness"). Awaiting human verification of primary sources.
-**Verification note:** Every claim below is 🔍 "found, source identified" — **not yet human-verified**. Open each primary link and check before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
+**Status:** ⚠️ AI-verified, awaiting human verification of primary sources. Gathered 2026-07-19; **human side rebuilt 2026-07-20** (the depth claim retired; anchored on trust); claim-support audited 2026-07-26/27 — **A's "free full text" turned out to be a dead link** (abstract-level only now), **B (Pickard) is unverifiable at all** since the publisher withholds even the abstract, so it is demoted to supporting-only, **C's claim was rewritten** to match what the study actually measured (willingness to pick a disclosing statement, not depth), and **J gained a DOI and a free full text**.
+**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). Nothing here is ✅ yet: open the primary link and check before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
 

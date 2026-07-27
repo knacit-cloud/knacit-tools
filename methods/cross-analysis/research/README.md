@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026); awaiting human check |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension); awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
@@ -30,7 +30,7 @@ Themes will be split further as research gets granular (e.g., #3 may split into 
 ## Human spot-check queue / 人間確認キュー
 
 AIが確認済みの項目。**りょうまさんがリンクを開いて「確認すること」欄が本当に書いてあるか見たら、`☐`→`✅` にして、該当テーマ台帳のエントリも ✅ に上げる。** 上から順に潰せる。★＝主張の柱（優先）。
-（最終更新 2026-07-26：③整合監査 第二パスを反映＝Kadambi/Jordanを全文確認・Jordanの無料全文を新規発見・Lucasの「無料全文」を撤回・Pickardを補助へ降格）
+（最終更新 **2026-07-27**：③整合監査 第二〜四パスを反映＝①Kadambi/Jordan/Wenger/Wieland等を全文確認 ②Jordan・Wielandの無料全文を新規発見 ③Lucasの「無料全文」を撤回（死リンク）・Pickardを判定不能で補助へ降格 ④**03-Kは引用の向きが逆だったので訂正** ⑤**02-Bは全文確認で格下げ**（94.9%の指標定義・LLM模擬の被験者）⑥全39行に `［深度｜③｜人間確認］` ラベルを付与）
 
 **リンク健全性チェック（最新＝2026-07-27・全面再実行）：** 台帳6ファイル内の**全59リンク**にブラウザ相当のUAで実アクセスし、ステータスを実測。結果＝**到達可能 40（200/202）／機械アクセス拒否 17（403）／死リンク 0**。
 - **2026-07-25版の「取得できなかった6本は出版社ブロック」という判断は推測混じりで、うち1本（CMU/Lucas 2014）は実際には死リンクだった**（2026-07-26に発覚・該当リンクは撤去済み）。今回はその反省から**全リンクを実測**した。
@@ -48,12 +48,12 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | **③**（主張を支えるか） | `✓` 整合 ／ `△` 限定つき（ジャンルが弱い・一部のみ・測定が主張より狭い） ／ `✗→訂正済` 不整合だったので直した ／ `判定不能` アクセスできず確認しようがない |
 | **人間確認** | `無料全文` ／ `無料要旨のみ` ／ `無料代替あり` ／ `要機関アクセス` ／ `不能` |
 
-**全39行の内訳（2026-07-27時点・スクリプトで実測）**
+**全39行の内訳（2026-07-27時点・スクリプトで実測。行の状態を変えたら必ず数え直すこと）**
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 18 |
-| 要旨 | 15 |
+| 全文 | 19 |
+| 要旨 | 14 |
 | 代替OA全文（原典はペイウォール） | 3 |
 | 本文一部 | 1 |
 | 書誌のみ | 1 |
@@ -61,8 +61,8 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 31 | | 無料全文が読める | 24 |
-| △ 限定つき | 4 | | 無料だが機械403／要旨のみ | 5 |
+| ✓ 整合 | 30 | | 無料全文が読める | 24 |
+| △ 限定つき | 5 | | 無料だが機械403／要旨のみ | 5 |
 | ✗→訂正済 | 2 | | 要機関アクセス | 4 |
 | 判定不能 | 1 | | 無料代替あり | 3 |
 | ✅ 人間確認済み | 1 | | 手元PDF／不能／✅ | 各1 |

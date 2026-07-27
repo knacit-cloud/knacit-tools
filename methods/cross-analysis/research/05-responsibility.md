@@ -1,7 +1,7 @@
 # Theme 5: Responsibility — who answers for the call? / 責任 — 誰がその判断を背負うのか
 
-**Status:** 🔍 evidence gathered (2026-07-19, via targeted WebSearch), awaiting human verification of primary sources.
-**Verification note:** All claims 🔍 unless noted. Open primary links before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
+**Status:** ⚠️ AI-verified, awaiting human verification of primary sources. Gathered 2026-07-19; claim-support audited 2026-07-25/27 — all five rows support their claims, with two already weakened to match their sources (C's "people delegate the unpleasant decisions" and D's earlier misattribution). **Weigh the blame-shield reading of C/E against incoming counter-evidence from Theme 3 K (Leib et al. 2025): following AI advice made a selfish decision-maker look _more_ responsible, not less.**
+**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). Nothing here is ✅ yet: open the primary link before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
 

@@ -1,7 +1,7 @@
 # Theme 1: Embodied Presence — being there / 身体でその場にいること
 
-**Status:** 🔍 evidence gathered (2026-07-19, via targeted WebSearch), awaiting human verification of primary sources.
-**Verification note:** All claims 🔍 unless noted. Open primary links before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
+**Status:** ⚠️ AI-verified, awaiting human verification of primary sources. Gathered 2026-07-19; claim-support audited 2026-07-26/27 — **B (the strongest anchor) had its claim rewritten** after a full-text read, **F gained a free author copy** and is now confirmed down to the numbers, and **A and C are opinion pieces (a column and an editorial), so neither is evidence on its own**.
+**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). Nothing here is ✅ yet: open the primary link before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
 
