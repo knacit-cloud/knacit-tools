@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026); awaiting human check |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A human-verified 2026-07-27** (Ryoma opened the free Springer SharedIt link and confirmed the DOI/title); rest still awaiting human check |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
