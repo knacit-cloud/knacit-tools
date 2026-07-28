@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A human-verified 2026-07-27** (Ryoma opened the free Springer SharedIt link and confirmed the DOI/title); rest still awaiting human check |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A human-verified 2026-07-27**; rest still awaiting human check |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
@@ -68,14 +68,14 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ✅ 人間確認済み | 1 | | ✅済み | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては30行が整合（△5・✗→訂正済2・判定不能1）。**人間確認の障害になるのは実質9行だけ**（要機関アクセス4＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：2/39**（02-A Brynjolfsson＝以前から済み／**01-A Twyman & O'Donnell＝2026-07-27にりょうまさんが確認**）。
+**この表から読めること**：③としては30行が整合（△5・✗→訂正済2・判定不能1）。**人間確認の障害になるのは実質9行だけ**（要機関アクセス4＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：2/39**（02-A Brynjolfsson・01-A Twyman & O'Donnell＝2026-07-27確認）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
 ### A. 無料で読める（優先度順・★＝柱）
 | ✓ | リンク（無料全文） | 確認すること | 上げる先 |
 |---|---|---|---|
-| ✅ | https://rdcu.be/fwqBh （Twyman & O'Donnell, Springer SharedIt・りょうまさん発見＋確認済み2026-07-27） | ジャンル＝Curmudgeon Corner（オピニオン欄）。単独の根拠にはしない | Theme1 A（**✅済み**） |
+| ✅ | https://rdcu.be/fwqBh （Twyman & O'Donnell, Springer SharedIt・確認済み2026-07-27） | ジャンル＝Curmudgeon Corner（オピニオン欄）。単独の根拠にはしない | Theme1 A（**✅済み**） |
 | ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
