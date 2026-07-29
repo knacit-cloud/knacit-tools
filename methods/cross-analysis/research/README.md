@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A, C and D human-verified 2026-07-27** (D turned out to be open access, not paywalled); rest still awaiting human check |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A, C, D and E1 human-verified 2026-07-27** — D turned out to be open access rather than paywalled, and E1's free source was found not to cite the original it was standing in for; B, E2 and F still awaiting human check |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
@@ -54,20 +54,20 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 |---|---|
 | 全文 | 18 |
 | 要旨 | 13 |
-| ✅ 人間確認済み | 4 |
-| 代替OA全文（原典はペイウォール） | 3 |
+| ✅ 人間確認済み | 5 |
+| 代替OA全文（原典はペイウォール） | 2 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 29 | | 無料全文が読める | 24 |
-| ✅ 人間確認済み | 4 | | 無料だが機械403／要旨のみ | 5 |
-| △ 限定つき | 3 | | ✅済み | 4 |
-| ✗→訂正済 | 2 | | 無料代替あり | 3 |
+| ✓ 整合 | 28 | | 無料全文が読める | 24 |
+| ✅ 人間確認済み | 5 | | ✅済み | 5 |
+| △ 限定つき | 3 | | 無料だが機械403／要旨のみ | 5 |
+| ✗→訂正済 | 2 | | 無料代替あり | 2 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては29行が整合（△3・✗→訂正済2・判定不能1、別途✅4）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：4/39**（02-A Brynjolfsson・01-A Twyman & O'Donnell・01-C NMI社説・01-D Ziemke＝2026-07-27確認）。
+**この表から読めること**：③としては28行が整合（△3・✗→訂正済2・判定不能1、別途✅5）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：5/39**（02-A Brynjolfsson／01-A Twyman & O'Donnell・01-C NMI社説・01-D Ziemke・01-E1 Levine＝いずれも2026-07-27確認）。**01-E2はE1と同一PDFが裏付けなので、一言で✅化できる状態。**
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -78,7 +78,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ✅ | 01-C（Nature Machine Intelligence社説・無料版なし・確認済み2026-07-27） | ジャンル＝Editorial。両主張とも社説自身ではなくBrooks 1991／Brunton & Tuthill 2025からの引用。単独の根拠にはしない | Theme1 C（**✅済み**） |
 | ✅ | https://www.sciencedirect.com/science/article/pii/S030326471630168X （Ziemke 2016, *Biosystems*・**CC BY-NC-ND オープンアクセス**・確認済み2026-07-27） | 種別＝Review article（複数の理論的枠組みを統合）。旧「SDペイウォール」判定は誤りだった | Theme1 D（**✅済み**） |
 | ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
-| ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
+| ✅ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ （Levine 2021・**E1は確認済み2026-07-27／E2も同一PDFなので✅化可**） | ①視線回避等は「診断的価値を欠く」（E1・原文一致）②Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」（E2）。**注意：この論文はDePaulo 2003を引用していない**（参考文献14件に無し）＝E1は「引用による確認」ではなく「独立した同趣旨の記述」。種別はFrontiers **Opinion** | Theme1 E1（**✅済み**）/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間選好 57.1%(Study1)/62.1%(Study3)・**"AI empathy choice paradox" は著者の命名**・"the assumption that human empathy is perceived as more effortful is not supported"。**あわせて確認**：①労力自体は効いている（人間側で効果が強い）②25%はAIを選好 ③**比較対象の人間は関係のない他人（学部生RA）＝伴走関係との比較ではない**（著者が未解決と明記） | Theme3 H・human-territory H6 |
 | ☐ | ★ https://www.nature.com/articles/s44271-024-00182-6 （Communications Psychology, OA） | AIが人間より思いやりと評価(d=0.73)・危機専門家超え・開示後も優位残存 | Theme3 C |
@@ -128,8 +128,8 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | Embodiment shapes cognition/meaning; text-only LLMs lack sensorimotor grounding — **Theme-1's strongest anchor** | Kadambi, Aziz-Zadeh, Damasio, Iacoboni & Narayanan, "Embodiment in multimodal LLMs", *Neuron* 114(11):1908-1921 (2026), peer-reviewed Review | https://doi.org/10.1016/j.neuron.2026.03.004 | ⚠️ AI abstract-confirmed (01-B) — human check pending |
 | **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | Twyman & O'Donnell, *AI & SOCIETY* 41:5963-5965 (2026) | https://link.springer.com/article/10.1007/s00146-026-03000-1 | ⚠️ identified (01-A); **genre = opinion/commentary column — weak** — human check pending |
 | Body is part of cognition's structure, not peripheral (embodied intelligence) | *Nature Machine Intelligence* 8:491-492 (2026) | https://www.nature.com/articles/s42256-026-01239-3 | ⚠️ visible-text confirmed (01-C); **genre = Editorial**; paywalled — human check pending |
-| Nonverbal cues to deception are weak/unreliable — **limits our own Theme-4 claim** | DePaulo et al. *Psychological Bulletin* 129(1) (2003) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ⚠️ AI full-text check 2026-07-19: open-access Levine 2021 states the listed cues "lack diagnostic value"; original meta-analysis bib confirmed via Crossref. **Correction: the 54% figure belongs to Bond & DePaulo 2006, below** — awaiting human check |
-| Human lie-truth judgment accuracy ≈54%, only slightly above chance | Bond & DePaulo, *PSPR* 10(3) (2006) — **paywalled**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ⚠️ AI full-text check 2026-07-19: open-access Levine 2021 cites Bond & DePaulo 2006 — "people are slightly above chance accuracy overall, truth-biased." Free full text — awaiting human check |
+| Nonverbal cues to deception are weak/unreliable — **limits our own Theme-4 claim** | DePaulo et al. *Psychological Bulletin* 129(1) (2003) — **paywalled, still unread**; same claim stated independently in Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ✅ human-verified 2026-07-27. Levine 2021 states the listed cues "lack diagnostic value" verbatim; existence independently confirmed via Crossref + PubMed (PMID 34366964). **Correction 2026-07-27: Levine 2021 does NOT cite DePaulo 2003** (not among its 14 references) — it is an independent statement of the same claim, not a citation trail to the original. Genre: Frontiers Opinion. **Correction: the 54% figure belongs to Bond & DePaulo 2006, below** |
+| Human lie-truth judgment accuracy ≈54%, only slightly above chance | Bond & DePaulo, *PSPR* 10(3) (2006) — **paywalled, still unread**; free confirmation: Levine 2021, *Frontiers in Psychology* (open access) | https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ⚠️ AI full-text check 2026-07-19/27: Levine 2021 **does cite Bond & DePaulo 2006** — "people are slightly above chance accuracy overall, truth-biased"; "cue-based truth-lie discrimination is slightly better than chance (about d = +0.4)". **Note for our own use:** Levine argues real-world accuracy is worse still — with research confederates, "Accuracy is near zero, not 54%" — so 54% is a lab-assisted ceiling, which strengthens rather than weakens our claim. Same PDF as E1, so this can be ✅ on request |
 | **[Responsibility theme, 2026-07-19]** Agency can be delegated to AI; moral responsibility cannot — "irreducibly human"; gaps arise from institutional fragmentation | Radanliev, *Frontiers in AI* 9 (2026) | https://doi.org/10.3389/frai.2026.1800302 | ⚠️ AI-checked 2026-07-19: thesis and key passages confirmed against full text |
 | People *may* delegate unpleasant decisions to algorithms for blame avoidance — but the effect is **weak & conditional**; algorithm aversion often dominates | Maasland & Weißmüller, "Blame the Machine?", *Frontiers in Psychology* 13 (2022), N=288 (DOI 10.3389/fpsyg.2022.779028 = PMC9177159, same paper) | https://pmc.ncbi.nlm.nih.gov/articles/PMC9177159/ | ⚠️ full text confirmed (05-C); the original "people prefer to delegate unpleasant decisions" was overstated — corrected — human check pending |
 | Machine/algorithm errors judged more harshly than identical human errors (perfection expectation + negativity salience) | **origin** Dietvorst, Simmons & Massey 2015, *J. Exp. Psychol. General* 144:114-126 (free: Wharton PDF); **also summarized in** Maasland & Weißmüller 2022 | https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/Dietvorst-Simmons-Massey-2014.pdf | ⚠️ **CORRECTION 2026-07-25**: an earlier note here wrongly called this "no valid source." Verified: Dietvorst 2015 shows people lose confidence in algorithms faster than humans after the *same* error; Maasland's text explicitly states algorithm fallibility "triggers an asymmetrically larger negative response." Valid = 05-D — human check pending |
