@@ -36,7 +36,7 @@ human-territory.md にURLを一括で埋めるとき、**H2**（「AIは自分�
 |---|---|---|---|---|
 | H1 | answerable＝責任は委任できず消える | Radanliev 2026 | ✓ | **全文確認**（2026-07-25）。「irreducibly human」「責任は委任・設計した者に帰属」原文一致 |
 | H2 | 自分を賭ける／AIは失敗に苦しめない／信頼はコスト | ~~Radanliev~~→出典なし | ✗ | **要修正だった**。Radanlievは支持せず→「概念的・出典不足」に訂正。最も近い実証Yu et al.2021は人間同士のみ |
-| H3 | 身体で状況に接地する認知 | Kadambi(Neuron)／Ziemke | ✓ | 要旨確認（Kadambiは無料全文あり・未精読／Ziemke本文はペイウォール） |
+| H3 | 身体で状況に接地する認知 | Kadambi(Neuron)／Ziemke | ✓ | 全文確認（Kadambi・Ziemke ともに2026-07-27に✅化。**ZiemkeはCC BY-NC-NDのオープンアクセス**と判明——旧「ペイウォール」判定は誤りだった） |
 | H4 | 身体的暗黙知 | Collins／Soler&Zwart | ✓ | OA全文で3分類の定義確認 |
 | H5 | 集合的暗黙知 | Collins／Cureus社説 | ✓ | OA/PMCで確認（Cureusは社説ジャンル） |
 | H6 | 「気にかけてくれている」感＝信念 | Rubin／Wenger | ✓ | deep-research（110体・3票検証）で機構まで確認 |

@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A and C human-verified 2026-07-27**; rest still awaiting human check |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A, C and D human-verified 2026-07-27** (D turned out to be open access, not paywalled); rest still awaiting human check |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
@@ -35,7 +35,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 **リンク健全性チェック（最新＝2026-07-27・全面再実行）：** 台帳7ファイル内の**全57リンク**（重複除去後）にブラウザ相当のUAで実アクセスし、ステータスを実測。結果＝**到達可能 40（200/202）／機械アクセス拒否 17（403）／死リンク 0**。<br>※当初「59リンク」と記載していたが誤り（**URL抽出時に末尾のMarkdown強調記号 `**` を含めてしまい、同じURLを2本ぶん二重計上していた**。素のURLでは両方200＝Wharton版Dietvorst・TU Delft版Kelly）。2026-07-27に抽出を修正して再実測し、57本に訂正。
 - **2026-07-25版の「取得できなかった6本は出版社ブロック」という判断は推測混じりで、うち1本（CMU/Lucas 2014）は実際には死リンクだった**（2026-07-26に発覚・該当リンクは撤去済み）。今回はその反省から**全リンクを実測**した。
 - **403は「読めない」であって「存在しない」ではないが、「ブラウザなら読める」の証明でもない。** 17本の内訳＝ScienceDirect×6・T&F・OUP・ACM・MDPI・RSNA・SSRN・doi.org×2・DOAJ・Consensus・TU Delftの**PDF直リンク**。このうち**無料の代替経路が確保できているのは**：Jordan（→pure.hud.ac.uk・実測200）／Bond & DePaulo（→PMC8333997）／Merwin（→DOAJ **API** は通る。HTMLページのみ403）／Kelly（→TU Delftの**ランディングページ**は200。PDF直リンクは403）／Dratsch・Gerlich・Lee（既に✅人間確認済み）。
-- **代替のないペイウォール＝Pickard・Ziemke・Yu・Croes(OUP)・Hohenstein(SD著者版)**。人間確認はここが機関アクセス頼みになる。
+- **代替のないペイウォール＝Pickard・Yu・Croes(OUP)・Hohenstein(SD著者版)**。人間確認はここが機関アクセス頼みになる。**Ziemkeは2026-07-27に撤回**——SDの403はボット検知で、論文自体はCC BY-NC-NDのオープンアクセス（提供PDFで確認・✅化済み）。
 - ※このチェックは「開ける・実在する」の事実確認のみ。**主張の裏付け（③）判断は含まない。** 過去の検証で著者名の誤り1件（Elkins→Elyoseph）も検出・訂正済み。
 
 ### 状態ラベルの読み方（2026-07-27 導入）
@@ -53,21 +53,21 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
 | 全文 | 18 |
-| 要旨 | 14 |
-| ✅ 人間確認済み | 3 |
+| 要旨 | 13 |
+| ✅ 人間確認済み | 4 |
 | 代替OA全文（原典はペイウォール） | 3 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 30 | | 無料全文が読める | 24 |
-| ✅ 人間確認済み | 3 | | 無料だが機械403／要旨のみ | 5 |
-| △ 限定つき | 3 | | ✅済み | 3 |
-| ✗→訂正済 | 2 | | 要機関アクセス | 3 |
-| 判定不能 | 1 | | 無料代替あり | 3 |
+| ✓ 整合 | 29 | | 無料全文が読める | 24 |
+| ✅ 人間確認済み | 4 | | 無料だが機械403／要旨のみ | 5 |
+| △ 限定つき | 3 | | ✅済み | 4 |
+| ✗→訂正済 | 2 | | 無料代替あり | 3 |
+| 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては30行が整合（△3・✗→訂正済2・判定不能1、別途✅3）。**人間確認の障害になるのは実質8行だけ**（要機関アクセス3＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：3/39**（02-A Brynjolfsson・01-A Twyman & O'Donnell・01-C NMI社説＝2026-07-27確認）。
+**この表から読めること**：③としては29行が整合（△3・✗→訂正済2・判定不能1、別途✅4）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：4/39**（02-A Brynjolfsson・01-A Twyman & O'Donnell・01-C NMI社説・01-D Ziemke＝2026-07-27確認）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -76,6 +76,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 |---|---|---|---|
 | ✅ | https://rdcu.be/fwqBh （Twyman & O'Donnell, Springer SharedIt・確認済み2026-07-27） | ジャンル＝Curmudgeon Corner（オピニオン欄）。単独の根拠にはしない | Theme1 A（**✅済み**） |
 | ✅ | 01-C（Nature Machine Intelligence社説・無料版なし・確認済み2026-07-27） | ジャンル＝Editorial。両主張とも社説自身ではなくBrooks 1991／Brunton & Tuthill 2025からの引用。単独の根拠にはしない | Theme1 C（**✅済み**） |
+| ✅ | https://www.sciencedirect.com/science/article/pii/S030326471630168X （Ziemke 2016, *Biosystems*・**CC BY-NC-ND オープンアクセス**・確認済み2026-07-27） | 種別＝Review article（複数の理論的枠組みを統合）。旧「SDペイウォール」判定は誤りだった | Theme1 D（**✅済み**） |
 | ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ | ①Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」②視線回避等は「診断的価値を欠く」 | Theme1 E1/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
@@ -105,7 +106,6 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ✓ | 出典 | 状況 | 上げる先 |
 |---|---|---|---|
 | ☐ | Rubin et al. 2025, *Nature Human Behaviour* (s41562-025-02247-w) | **柱だが**Nature本誌ペイウォール。要旨＋HBS要約で方向は確認済み、数値の本文確認が残る | Theme3 A・human-territory H6 |
-| ☐ | Ziemke 2016, *Biosystems* 148:4-11 | SDペイウォール・無料版なし。PubMed要旨止まり、または著者連絡(tom.ziemke@liu.se) | Theme1 D |
 | ☐ | Pickard, Roster & Chen 2016, *CHB* 65:23-30 | SDペイウォール・無料版なし。**2026-07-26に3系統で再確認（unpaywall `is_oa:false`／OpenAlex `any_repository_has_fulltext:false`／Semantic Scholarは出版社が要旨自体を非公開）＝要旨さえ読めず③判定不能。単独の根拠にせず補助扱い**（同じ機構はTheme4 Dが全文で支える） | Theme4 B |
 | ☐ | **Lucas et al. 2014, *CHB* 37:94-100**（旧「CMUに無料全文あり」を撤回） | **2026-07-26：CMU記事ページ・CMUのPDF直リンク・USC ICTのPDFすべて404、unpaywall `is_oa:false`＝無料全文は現存しない。** 要旨は無料で読め、4項目（開示恐怖↓・印象管理↓・悲しみ表出↑・観察者評価の開示意欲↑）すべて原文で確認済み。人間確認も要旨止まりで可 | Theme4 A・human-territory A3 |
 
