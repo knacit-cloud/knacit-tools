@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **A, B, C, D, E1 and E2 human-verified 2026-07-27; only F remains.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **✅ All 7 rows human-verified 2026-07-27 — first theme fully checked.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
@@ -52,22 +52,22 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 17 |
+| 全文 | 16 |
 | 要旨 | 13 |
-| ✅ 人間確認済み | 7 |
+| ✅ 人間確認済み | 8 |
 | 代替OA全文（原典はペイウォール） | 1 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 26 | | 無料全文が読める | 23 |
-| ✅ 人間確認済み | 7 | | ✅済み | 7 |
+| ✓ 整合 | 25 | | 無料全文が読める | 22 |
+| ✅ 人間確認済み | 8 | | ✅済み | 8 |
 | △ 限定つき | 3 | | 無料だが機械403／要旨のみ | 5 |
 | ✗→訂正済 | 2 | | 無料代替あり | 1 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては26行が整合（△3・✗→訂正済2・判定不能1、別途✅7）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**23行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：7/39**（02-A Brynjolfsson／**テーマ1はA・B・C・D・E1・E2の6行が完了**＝2026-07-27）。**残るのは 01-F のみでテーマ1完了**（Huddersfield大に無料の著者版あり）。
+**この表から読めること**：③としては25行が整合（△3・✗→訂正済2・判定不能1、別途✅8）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**22行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：8/39 — テーマ1（全7行）が完了**（＋02-A Brynjolfsson）。**次はテーマ2**（B・C・D・E・Fの5行。うちB・D・Fは無料全文、Cは代替OA、EはSSRN 403）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -82,7 +82,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間選好 57.1%(Study1)/62.1%(Study3)・**"AI empathy choice paradox" は著者の命名**・"the assumption that human empathy is perceived as more effortful is not supported"。**あわせて確認**：①労力自体は効いている（人間側で効果が強い）②25%はAIを選好 ③**比較対象の人間は関係のない他人（学部生RA）＝伴走関係との比較ではない**（著者が未解決と明記） | Theme3 H・human-territory H6 |
 | ☐ | ★ https://www.nature.com/articles/s44271-024-00182-6 （Communications Psychology, OA） | AIが人間より思いやりと評価(d=0.73)・危機専門家超え・開示後も優位残存 | Theme3 C |
-| ☐ | **NEW** https://pure.hud.ac.uk/ws/files/17720891/accepted_manuscript.pdf （Jordan et al. 2019 METT・著者版31頁／2026-07-26に発見） | 全体精度 M=.46（偶然50%を有意に下回る, p=.05）・群間差なし F(2,87)=0.22, p=.80・ベイズ因子≈21:1で「差なし」・**それでも微表情の識別自体は訓練で 37.9%→72.4% に向上**していた点 | Theme1 F・human-territory H8（否定側） |
+| ✅ | https://pure.hud.ac.uk/ws/files/17720891/accepted_manuscript.pdf （Jordan et al. 2019 METT・著者版31頁・**確認済み2026-07-27**） | 全体精度 M=.46（偶然50%を有意に下回る, p=.05）・群間差なし F(2,87)=0.22, p=.80・ベイズ因子≈21:1で「差なし」・**それでも微表情の識別自体は訓練で 37.9%→72.4% に向上**＝訓練が効いた群で示している点が強い | Theme1 F（**✅済み**）・human-territory H8（否定側） |
 | ☐ | https://research.tudelft.nl/en/publications/tapping-into-key-drivers-self-disclosure-in-sensitive-health-conv/ （Kelly 2025・T&F版はペイウォール） | 機微度が高いほど開示意向が下がる（N=216） | Theme4 E |
 | ☐ | https://arxiv.org/abs/1905.10700 （Xiao 2020・TOCHI版の無料preprint） | チャットボットの会話型調査がWeb調査よりGricean指標で有意に高品質 | Theme4 H |
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10148230/ （Ayers 2023） | 78.6%でAI選好・共感9.8倍・※AIが4倍長い交絡・評価者が共著者 | Theme3 B |
