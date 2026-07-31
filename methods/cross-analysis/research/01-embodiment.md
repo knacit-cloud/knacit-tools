@@ -1,7 +1,7 @@
 # Theme 1: Embodied Presence — being there / 身体でその場にいること
 
 **Status:** ⚠️ AI-verified, awaiting human verification of primary sources. Gathered 2026-07-19; claim-support audited 2026-07-26/27 — **B (the strongest anchor) had its claim rewritten** after a full-text read, **F gained a free author copy** and is now confirmed down to the numbers, and **A and C are opinion pieces (a column and an editorial), so neither is evidence on its own**.
-**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). **Human verification is now underway (2026-07-27): A, C, D and E1 are ✅.** Two corrections came out of it: D is open access, not paywalled (the earlier note mistook a bot-block for a paywall, same pattern as the Lucas 2014 dead link), and **E1's free source does not actually cite DePaulo 2003** — it states the same claim independently, so it backs the claim but is not a citation trail to the original. Everything else here is still ⚠️: open the primary link before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
+**Verification note:** Per-row state is tagged `［depth｜claim-support｜human-check］` — see the [legend](README.md#状態ラベルの読み方2026-07-27-導入). **Human verification is now underway (2026-07-27): A, B, C, D and E1 are ✅.** Three corrections came out of it: D is open access rather than paywalled (the earlier note mistook a bot-block for a paywall, same pattern as the Lucas 2014 dead link); **E1's free source does not actually cite DePaulo 2003**, so it backs the claim independently but is not a citation trail to the original; and **B, read in its published form, turns out to be agnostic about whether AI can acquire internal embodiment** — it proposes functional analogs for AI rather than arguing a limit, so it can no longer carry the "in principle" framing of this theme (D does). Everything else here is still ⚠️: open the primary link before publishing. Rule: [the-fabricated-citation.md](../the-fabricated-citation.md).
 
 ---
 
@@ -9,7 +9,7 @@
 
 B軸の分担表で「AIは現場に座れない」と書いた。これが比喩なのか、原理的な限界なのかを確定させたい。もし「センサーとカメラを増やせば解決する」類の話なら、B軸の人間優位は時間の問題で崩れる。原理的な話なら、分類の土台になる。
 
-**結果は二重だった**：身体性の限界は予想通り原理的。だが同時に、**「人間は現場で非言語を読める」という私たち自身の主張（テーマ4）に強い限定がつく**発見があった。
+**結果は二重だった**：身体性の議論には確かな土台がある。だが同時に、**私たち自身の主張2つに限定がついた**——①「人間は現場で非言語を読める」（テーマ4）は検出精度の話としては成立しない、②「AIには原理的に無理」も、最強アンカーだと思っていたKadambiが**その主張をしていない**ことが分かった（2026-07-27）。
 
 ## 何がわかったか
 
@@ -18,8 +18,10 @@ B軸の分担表で「AIは現場に座れない」と書いた。これが比�
 - **LLMには身体がない（AI & SOCIETY 2026）**：身体的知識は言語に依存しない層にあり、言語モデルは身体的知識との接続に構造的に苦労する。
 - **身体性は2領域に分かれる（Kadambi et al. 2026, Neuron）**：**内的身体**＝自分の内部状態を持続的にモデル化する働き（内受容感覚とホメオスタシス調整。原文の例は空腹・体温調節・ホルモン・血糖・水分バランス）と、**外的身体**＝物理世界との相互作用（運動実行・実世界フィードバック）。原著の力点は「AI研究はロボティクス等の**外的**身体に偏り、**内的**身体は手つかず」という点にある。LLMについて原著はこう書く——「"heat"を暖かさを感じることなく解釈し、"hunger"を必要を知ることなく解析し、身体動作を一度も行わずに記述する。その理解は統計的で、経験的な接地を欠く」。知能は身体から切り離せる計算ではなく、身体が「何を検出し、学び、できるか」を規定する（身体化された認知）。
   - ※以前ここに書いていた「疲労・不確かさの自覚」は**原著の例ではない**（2026-07-26の全文確認で修正）。内的身体の例は上記の生理的・内受容的なもの。「疲労・違和感・不確かさ」は本プロジェクト側の解釈・拡張として扱う。
+  - ※**重要な限定（2026-07-27・掲載版で確認）：Kadambiらは「AIには原理的に無理」とは言っていない。** 彼らは内的身体を "functional and non-phenomenological framing" で定義し、"**our proposal remains agnostic about whether artificial systems similarly require such internal, subjective experiences**"、AIに要るのは "internal **functional analogs**... which need not require or replicate biological fidelity" と明言する。**本論はAIの改良提案**であって、身体性が原理的な壁だという論証ではない。→ **この見出し（原理的な限界）の根拠にKadambiを使わない。**
 - **記号接地問題**：身体・状況・必要という統一構造を欠くため、AIの学習は文脈の接地でつまずく。
-- 含意：これは**センサー追加で埋まる話ではなく、認知の構造の話**。「AIは現場に座れない」は比喩ではなかった。
+- **「原理的」と言えるのはどこまでか（2026-07-27整理）**：この見出しを支えるのは実質 **D（Ziemke 2016）** ——生きた身体のホメオスタシス的自己調整が認知を接地するという立場で、autopoiesis等の複数系譜が収斂する。**Bは「現在のMLLMに何が欠けているか」の記述**であって、将来AIが機能的等価物を持てるかについては著者自身が判断を保留している。**したがって本テーマの主張は「現時点でAIは身体経験を欠く」＋「生物学的身体を認知の基盤とみる有力な理論系譜がある」までで、「AIには永久に不可能」とは書かない。**
+- 含意：これは**センサー追加で埋まる話ではなく、認知の構造の話**。ただし上記の通り、**"だからAIには永遠に無理" は本台帳の出典が支える範囲を超える**。
 
 ### ⚠️ ただし人間側にも不都合な事実（テーマ4への修正）
 
@@ -35,12 +37,12 @@ B軸の分担表で「AIは現場に座れない」と書いた。これが比�
 | 能力 | 判定 | 根拠 | なぜ |
 |---|---|---|---|
 | 物理的な現場に身を置き、五感で状況に接地する | **人間のみ**（原理的） | 身体化認知研究 | 身体・状況・必要の統一構造が認知の前提 |
-| 自分の状態（疲労・違和感・不確かさ）の内的自覚 | **人間のみ** | AI限界研究 | AIに身体状態の自覚がない |
+| 自分の状態（疲労・違和感・不確かさ）の内的自覚 | **現状は人間のみ** | Kadambi 2026（現状記述） | 現在のMLLMは内部状態の持続的モデルを持たない。**ただし同論文は「AIに機能的等価物を持たせるべき」という提案であり、原理的不可能性は主張していない** |
 | 非言語に合わせたリアルタイムの関係調整（間合い・踏み込み） | **人間優位** | 質的研究（T4） | 身体を伴う相互作用のループ |
 | 非言語からの嘘・感情の"正確な検出" | **人間も苦手（54%）** — どちらの領域とも言えない | DePaulo 2003, METT研究 | 非言語手がかり自体が弱く不安定 |
 | 複数モダリティの体系的記録・分析 | **AI/ツールが有利になりうる** | 自動解析研究（発展途上） | 網羅性・一貫性は機械の得意領域 |
 
-**分類の結論（暫定）：** 「その場にいる」ことの価値は本物で原理的。ただしその価値の中身は「人間は真実を見抜けるから」**ではなく**、①五感による状況接地、②信頼を作り相手の開示を引き出す身体的相互作用、③違和感という内的シグナル——にある。「見抜く」ではなく「引き出す・感じ取る・合わせる」。
+**分類の結論（暫定）：** 「その場にいる」ことの価値は本物。ただし**「原理的にAIには不可能」とまでは本台帳の出典は言っていない**（→上記「『原理的』と言えるのはどこまでか」）。そしてその価値の中身は「人間は真実を見抜けるから」**ではなく**、①五感による状況接地、②信頼を作り相手の開示を引き出す身体的相互作用、③違和感という内的シグナル——にある。「見抜く」ではなく「引き出す・感じ取る・合わせる」。
 
 ## クロス分析への含意
 
@@ -50,15 +52,15 @@ B軸の分担表で「AIは現場に座れない」と書いた。これが比�
 
 ## まだわからない・要検証
 
-- ✅【AI確認済 2026-07-20】A〜D の書誌を全て特定・要旨確認済み（下の台帳）。Bは二次ニュース→一次Neuron論文へ差替。全て査読誌だが本文はペイウォール（要旨はPubMed/可視部分で確認）。**種別の注意**：Aは意見コラム・Cは社説（弱め）／B(Neuron Review)・D(Biosystems Review)が強い。人間確認待ち。
+- ✅【人間確認済 2026-07-27】A〜E1 を一次で確認済み（下の台帳）。**種別の注意**：Aは意見コラム・Cは社説（どちらも証拠ではない）／**B は Neuron の Perspective**（Reviewではない）・**D は Biosystems の Review article** で、この2本が実質の土台。**B・Dとも実はオープンアクセス**（当初「全てペイウォール」としていたのは誤り）。**残る要確認は B以外では E2・F**。
 - 「AIの感情認識が人間を超える」系の研究を追加で探す（今回の検索では直接比較が出なかった——ないと断定しない）。※Theme3で別途カバー済み（LEAS等）。
 
 ## 出典（要・人間検証）
 
 | # | 主張の核 | 一次リンク | 状態 |
 |---|---|---|---|
-| A | LLMには身体がない＝身体的知識は人間-AIの本質的区別 | https://link.springer.com/article/10.1007/s00146-026-03000-1 （Twyman & O'Donnell, "A large language model has no body: embodied knowledge as a key distinction in human–AI interaction", *AI & SOCIETY* 41:5963-5965, 2026, doi:10.1007/s00146-026-03000-1）。**無料の公式共有リンク**→ https://rdcu.be/fwqBh （Springer SharedIt） | ✅**確認済み（2026-07-27）**。方向は一致——タイトル自体が主張そのもの。**内容は具体例による論証**（音楽家の耳トレーニング／サッカーの「ファーストタッチ」／身体的苦痛への共感）で、統計・実証データはゼロ。**種別は原文の編集部注記で確定**："Curmudgeon Corner is a short opinionated column..."＝査読論文ではなくオピニオン欄。**③整合＝△：主張の表明であって証拠ではない**——01-CのNature MI社説と同じ扱い。単独の根拠にせず、実質アンカーは引き続きB（Kadambi, Neuron査読Review） |
-| B | 身体性は**内的身体**（内受容感覚・ホメオスタシス調整＝自分の内部状態の持続的モデル化）と**外的身体**（物理世界との相互作用）の2領域に分かれ、MLLMは身体経験を欠く。とくに**内的身体はAI研究で手つかず** | https://doi.org/10.1016/j.neuron.2026.03.004 （Kadambi, Aziz-Zadeh, Damasio, Iacoboni & Narayanan, "Embodiment in multimodal large language models", **Neuron 114(11):1908-1921, 2026**, 査読済みReview）。**無料全文**→ arXiv版 https://arxiv.org/abs/2510.13845 （v1, 2025-10-11） | ⚠️**［全文(arXiv版)｜③✓(訂正済)｜人間確認:無料全文］**（2026-07-20：二次ニュース(TechXplore)から一次のNeuron論文へ差替。2026-07-26：**arXiv版PDFを全文読了し、主張を2点修正**——①原著の定義は「(i) internal embodiment＝内部状態を監視しホメオスタシスを維持する内的動態（内受容感覚・恒常性調整）／(ii) external embodiment＝外界との相互作用」。**内的身体の例は空腹・体温調節・ホルモン・血糖・水分バランス等の生理的なもので、旧記述の「疲労・不確かさ」は原著にない**（削除）。②旧「AIに欠ける2要素」は力点がズレ。原著は "AI research has recently focused primarily on external embodiment via robotics and embodied agents" とし、**欠けているのは内的身体**だと論じる。MLLM側の記述は "MLLMs still lack any bodily experience. They interpret 'heat' without ever feeling warmth, parse 'hunger' without ever knowing need" が原文。**Theme1の最強アンカー**。著者にA.Damasio＋Google DeepMind。※読んだのはarXiv版＝掲載版Neuron本文との差分は未確認） |
+| A | LLMには身体がない＝身体的知識は人間-AIの本質的区別 | https://link.springer.com/article/10.1007/s00146-026-03000-1 （Twyman & O'Donnell, "A large language model has no body: embodied knowledge as a key distinction in human–AI interaction", *AI & SOCIETY* 41:5963-5965, 2026, doi:10.1007/s00146-026-03000-1）。**無料の公式共有リンク**→ https://rdcu.be/fwqBh （Springer SharedIt） | ✅**確認済み（2026-07-27）**。方向は一致——タイトル自体が主張そのもの。**内容は具体例による論証**（音楽家の耳トレーニング／サッカーの「ファーストタッチ」／身体的苦痛への共感）で、統計・実証データはゼロ。**種別は原文の編集部注記で確定**："Curmudgeon Corner is a short opinionated column..."＝査読論文ではなくオピニオン欄。**③整合＝△：主張の表明であって証拠ではない**——01-CのNature MI社説と同じ扱い。単独の根拠にせず、実質アンカーはB・D（**Bは Neuron の Perspective**。「原理的な限界」を支えるのはDの方） |
+| B | 身体性は**内的身体**（内受容感覚・固有感覚・温度感覚・調節状態＝自分の内部状態の持続的モデル化）と**外的身体**（物理世界との相互作用）の2領域に分かれ、現在のMLLMは身体経験を欠く。とくに**内的身体はAI研究で手つかず** | https://doi.org/10.1016/j.neuron.2026.03.004 （Kadambi, Aziz-Zadeh, Damasio, Iacoboni & Narayanan, "Embodiment in multimodal large language models", **Neuron 114:1908-, 2026-06-03**, 種別＝**Perspective**, **CC BY 4.0 オープンアクセス**）。無料の別版→ arXiv https://arxiv.org/abs/2510.13845 | ✅**確認済み（2026-07-27・掲載版Neuron本体）**。経緯：2026-07-20に二次ニュース(TechXplore)から一次へ差替／2026-07-26にarXiv版を全文読了し主張を2点修正（内的身体の例に「疲労・不確かさ」と書いていたのは原著になし＝削除／「AIに欠ける2要素」は力点違いで、原著は "AI research has recently focused primarily on external embodiment via robotics and embodied agents" とし**欠けているのは内的身体**だと論じる）。**2026-07-27に掲載版で以下を確定**：<br>**訂正①：種別は「Review」ではなく "Perspective"**（Cell Pressの誌面表記）。査読誌の論考であって系統的レビューではない。<br>**訂正②：定義文の例示が掲載版でより厳密**——"(1) internal embodiment, or the internal states broadly construed that model internal dynamics and maintain homeostasis and internal control (e.g., **proprioception, interoception, thermoreception, and regulatory states**), and (2) external embodiment, incorporating interactions with the external world"。本文中の具体例（体温調節・ホルモン・血糖・水分バランス）は別途そのまま有効。<br>**⚠️最重要の発見：この論文は「AIには原理的に無理」とは言っていない。** 掲載版は明示的にこう限定する——"we explicitly operationalize internal embodiment in a **functional and non-phenomenological framing**" ／ "**our proposal remains agnostic about whether artificial systems similarly require such internal, subjective experiences**. We instead introduce the importance of internal **functional analogs** (or regulators) in artificial systems... **which need not require or replicate biological fidelity**"。**つまり本論はAIの改良提案であって、身体性がAIにとって原理的な壁だという主張ではない。**「原理的な限界」の根拠にこの行を使ってはいけない（その役割はD=Ziemkeが担う）。MLLM側の記述 "MLLMs lack any bodily experience..." は現状記述としては有効。<br>著者にA.Damasio（USC）＋Srini Narayanan（Google DeepMind）。IacoboniとNarayananが共同シニア |
 | C | 身体は認知の構造の一部（intelligence is not computation abstracted from the body） | https://www.nature.com/articles/s42256-026-01239-3 （"From embodied intelligence to physical AI", *Nature Machine Intelligence* 8:491-492, 2026, doi:10.1038/s42256-026-01239-3）。ペイウォール・無料共有リンクなし（2026-07-27検索で未発見） | ✅**確認済み（2026-07-27）**。両主張とも原文一致："intelligence is not computation that can be abstracted from the body"／"the brain neither senses nor acts on the world except through the body"。**種別＝Editorial**（誌面に明記）。**両方とも社説自身の主張ではなく引用だった**——前者はBrooks, R. A., *Artif. Intell.* 47:139-159 (1991)（embodied AIの古典）、後者はBrunton & Tuthill, *The Transmitter* (2025)（COSYNE 2026での発言を紹介した記事）が出典。**③整合＝△：社説は主張の表明であって証拠ではない**——01-Aと同じ扱い。単独の根拠にせず、実質アンカーは引き続きB（Kadambi, Neuron査読Review）。**Brooks 1991は将来この主張の直接の柱にできる可能性あり**（古典的・被引用多数の一次論文） |
 | D | 生きた身体（ホメオスタシス的自己調整）が身体化認知を接地する | https://www.sciencedirect.com/science/article/pii/S030326471630168X （Ziemke, "The body of knowledge: On the role of the living body in grounding embodied cognition", *Biosystems* 148:4-11, 2016, doi:10.1016/j.biosystems.2016.08.005, Review article）。**オープンアクセス**（CC BY-NC-ND、論文自体に明記）——**旧「SDペイウォール」の判定は誤りだった可能性が高い**（2026-07-25の自動チェックがボット検知の403をペイウォールと誤認したとみられる。Lucas 2014の死リンク誤判定と同型） | ✅**確認済み（2026-07-27）**。原文一致（要旨："the living body – and more specifically its homeostatic/allostatic self-regulation – plays in grounding both sensorimotor interactions and embodied cognitive processes"）。**種別＝Review article**（A・Cの意見コラム／社説とは違い、複数の理論的枠組み——autopoiesis(Maturana & Varela)・Christensen & Hookerの自律性理論・Bickhardの相互作用主義・Damasio/Panksepppの身体的情動理論——を横断的に統合した査読済みレビュー）。**③整合＝✓（据え置き・強化）**：A・Cと違い単なる意見の表明ではなく、複数の独立した理論的系譜が収斂する先として論証されている。**Theme1のもう一つの強いアンカー**（Bと並ぶ） |
 | E1 | 非言語の欺瞞手がかりは弱い（視線回避・まばたき・手の動き等は診断的価値を欠く） | https://doi.org/10.1037/0033-2909.129.1.74 （DePaulo et al. 2003, Psych Bulletin 129(1):74-118／ペイウォール・**原典は未読**）。**無料で読める同趣旨の記述**→ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ （Levine 2021, *Front. Psychol.* 12:642359, doi:10.3389/fpsyg.2021.642359, PMID 34366964） | ✅**確認済み（2026-07-27）**。**実在性を独立検証**：Crossref（Frontiers Media SA登録・参考文献14件）とPubMed/PMC（PMID 34366964／PMC8333997）が一致し、提供PDFの実物とも整合。捏造ではない。**原文一致**："The cues in question (gaze aversion, blinking, smiling, illustrators, hand movements, body movements, posture, and appearance) lack diagnostic value."<br>**⚠️訂正（2026-07-27）：旧記述「Levine 2021がDePaulo 2003を引用・確認」は誤り。参考文献14件にDePaulo et al. 2003は含まれない**（Levineが引くのはBond & DePaulo 2006／Hartwig & Bond 2011／Bond et al. 2015）。**したがってこの行は「原典を引用した確認」ではなく「独立した同趣旨の記述」として扱う**——主張の裏付けとしては成立するが、DePaulo 2003本体は依然として未読・ペイウォール。<br>**種別注記**：Levine 2021はFrontiersの **Opinion（意見論文）**。ただし当該の手がかり群の記述はメタ分析（Hartwig & Bond 2011等）を引いており、単なる私見ではない |

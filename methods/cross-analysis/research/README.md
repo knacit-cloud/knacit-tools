@@ -19,7 +19,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 
 | # | Theme | Note file | Status |
 |---|---|---|---|
-| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | ⚠️ AI-verified (strongest anchor: Kadambi et al., *Neuron* 2026). **A, C, D and E1 human-verified 2026-07-27** — D turned out to be open access rather than paywalled, and E1's free source was found not to cite the original it was standing in for; B, E2 and F still awaiting human check |
+| 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **A, B, C, D and E1 human-verified 2026-07-27; only E2 and F remain.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
 | 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
@@ -52,22 +52,22 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 18 |
+| 全文 | 17 |
 | 要旨 | 13 |
-| ✅ 人間確認済み | 5 |
+| ✅ 人間確認済み | 6 |
 | 代替OA全文（原典はペイウォール） | 2 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 28 | | 無料全文が読める | 24 |
-| ✅ 人間確認済み | 5 | | ✅済み | 5 |
+| ✓ 整合 | 27 | | 無料全文が読める | 23 |
+| ✅ 人間確認済み | 6 | | ✅済み | 6 |
 | △ 限定つき | 3 | | 無料だが機械403／要旨のみ | 5 |
 | ✗→訂正済 | 2 | | 無料代替あり | 2 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては28行が整合（△3・✗→訂正済2・判定不能1、別途✅5）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**24行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：5/39**（02-A Brynjolfsson／01-A Twyman & O'Donnell・01-C NMI社説・01-D Ziemke・01-E1 Levine＝いずれも2026-07-27確認）。**01-E2はE1と同一PDFが裏付けなので、一言で✅化できる状態。**
+**この表から読めること**：③としては27行が整合（△3・✗→訂正済2・判定不能1、別途✅6）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**23行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：6/39**（02-A Brynjolfsson／**テーマ1はA・B・C・D・E1の5行が完了**＝2026-07-27）。**残るのは 01-E2（E1と同一PDFなので即✅化可）と 01-F のみでテーマ1は全完了。**
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -77,7 +77,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ✅ | https://rdcu.be/fwqBh （Twyman & O'Donnell, Springer SharedIt・確認済み2026-07-27） | ジャンル＝Curmudgeon Corner（オピニオン欄）。単独の根拠にはしない | Theme1 A（**✅済み**） |
 | ✅ | 01-C（Nature Machine Intelligence社説・無料版なし・確認済み2026-07-27） | ジャンル＝Editorial。両主張とも社説自身ではなくBrooks 1991／Brunton & Tuthill 2025からの引用。単独の根拠にはしない | Theme1 C（**✅済み**） |
 | ✅ | https://www.sciencedirect.com/science/article/pii/S030326471630168X （Ziemke 2016, *Biosystems*・**CC BY-NC-ND オープンアクセス**・確認済み2026-07-27） | 種別＝Review article（複数の理論的枠組みを統合）。旧「SDペイウォール」判定は誤りだった | Theme1 D（**✅済み**） |
-| ☐ | ★ https://arxiv.org/abs/2510.13845 （Neuron本文もCC BYで無料） | ①内的身体＝内部状態の監視とホメオスタシス維持（例＝空腹・体温調節・血糖・水分バランス。**「疲労・不確かさ」は原著の例ではない**）／外的身体＝外界との相互作用 ②"MLLMs still lack any bodily experience" ③**原著の力点は「AI研究は外的身体に偏り、内的身体が手つかず」**（＝「2要素とも欠ける」ではない）。AIは全文読了済み（2026-07-26） | Theme1 B・human-territory H3 |
+| ✅ | ★ https://doi.org/10.1016/j.neuron.2026.03.004 （Kadambi et al.・掲載版NeuronはCC BYで無料／arXiv版 https://arxiv.org/abs/2510.13845 ・確認済み2026-07-27） | 種別＝**Perspective**（Reviewではない）。①内的身体＝固有感覚・内受容感覚・温度感覚・調節状態／外的身体＝外界との相互作用 ②"MLLMs lack any bodily experience" ③力点は「AI研究は外的身体に偏り、内的身体が手つかず」 ④**最重要：本論は "remains agnostic about whether artificial systems similarly require such internal, subjective experiences" と明記し、機能的等価物の実装を提案している＝「AIには原理的に無理」の根拠にはならない**（その役割はD=Ziemke） | Theme1 B（**✅済み**）・human-territory H3 |
 | ✅ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC8333997/ （Levine 2021・**E1は確認済み2026-07-27／E2も同一PDFなので✅化可**） | ①視線回避等は「診断的価値を欠く」（E1・原文一致）②Bond & DePaulo 2006「chanceをわずかに上回る・真実バイアス」（E2）。**注意：この論文はDePaulo 2003を引用していない**（参考文献14件に無し）＝E1は「引用による確認」ではなく「独立した同趣旨の記述」。種別はFrontiers **Opinion** | Theme1 E1（**✅済み**）/E2・human-territory H8 |
 | ☐ | ★ https://doi.org/10.3389/frai.2026.1800302 | 「権限は委任できるが道徳的責任は委任できない＝irreducibly human」「多くの手→answerableな役割の欠如」 | Theme5 A・human-territory H1 |
 | ☐ | ★ https://pmc.ncbi.nlm.nih.gov/articles/PMC12872445/ （Wenger 2026） | 人間選好 57.1%(Study1)/62.1%(Study3)・**"AI empathy choice paradox" は著者の命名**・"the assumption that human empathy is perceived as more effortful is not supported"。**あわせて確認**：①労力自体は効いている（人間側で効果が強い）②25%はAIを選好 ③**比較対象の人間は関係のない他人（学部生RA）＝伴走関係との比較ではない**（著者が未解決と明記） | Theme3 H・human-territory H6 |
