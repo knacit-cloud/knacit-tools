@@ -27,6 +27,14 @@ This is *automation bias* — humans over-trust automated systems, and expertise
 
 > Dratsch, T., et al. (2023). "Automation Bias in Mammography: The Impact of Artificial Intelligence BI-RADS Suggestions on Reader Performance." *Radiology*, 307(4). [Primary source](https://pubs.rsna.org/doi/full/10.1148/radiol.222176)
 
+**And the reason a verification step has to be structural: you cannot tell in advance when AI will help you or hurt you.** A preregistered field experiment with **758 Boston Consulting Group consultants** found that AI cuts both ways within the same job. On 18 realistic consulting tasks *inside* the frontier of what GPT-4 does well, consultants with AI completed **12.2% more tasks, 25.1% faster, at more than 40% higher quality** — and the weakest performers gained most (**+43%**, versus +17% for the strongest). But on one complex managerial task deliberately chosen to sit *outside* that frontier, consultants using AI were **19 percentage points less likely to reach the correct answer** than consultants working without it.
+
+The authors call this boundary a **"jagged technological frontier"** — jagged because two tasks of seemingly similar difficulty can fall on opposite sides of it, and because the boundary is invisible from the inside. That is precisely why the countermeasure cannot be "be careful with hard tasks": you do not know which task was the hard one. It has to be a step in the process.
+
+> Dell'Acqua, F., McFowland III, E., Mollick, E., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K. (2026). "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality." *Organization Science*. [doi:10.1287/orsc.2025.21838](https://doi.org/10.1287/orsc.2025.21838) — originally HBS Working Paper 24-013; free preprint: [SSRN 4573321](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf)
+
+*Do not over-read this study.* It does **not** show that consultants who doubted or fact-checked the AI did better — the words "skeptical" and "verify" appear nowhere in that sense in the paper. The two successful patterns it identifies, **Centaurs** ("dividing and delegating their solution-creation activities to the AI or to themselves") and **Cyborgs** ("completely integrating their task flow with the AI and continually interacting with the technology"), are patterns of *dividing work*, not of *distrust*. What the study establishes is the jagged frontier and the 19-point drop beyond it. That is enough.
+
 ## 3. Room to think — Don't outsource your judgment
 
 **Keep deliberate human thinking time built into the process.**
@@ -74,6 +82,14 @@ AIは、優秀な人の知恵を組織全体へ広げる道具です。コール
 これが「自動化バイアス」——人は自動システムを過信し、専門性はその免疫になりません。対策は根性論ではなく構造です：AIの出力と行動の間に、必須の検証ステップを置く。
 
 > Dratsch et al. (2023) "Automation Bias in Mammography" Radiology 307(4)
+
+**そして、検証ステップが「構造」でなければならない理由がここにある——AIがいつ助けになり、いつ害になるかは事前に分からない。** **ボストン・コンサルティング・グループのコンサルタント758人**を対象とした事前登録済みのフィールド実験は、同じ職務の中でAIが両方向に働くことを示した。GPT-4が得意とする範囲の**内側**にある18の実務課題では、AI利用群は**課題処理量 +12.2%、所要時間 -25.1%、品質は40%超の向上**。しかも**成績下位層ほど伸びが大きい**（**+43%**、上位層は+17%）。ところが、その範囲の**外側**になるよう意図的に選ばれた1つの複雑な経営課題では、AI利用群は**正答に到達する確率が19パーセントポイント低かった**。
+
+著者はこの境界を **"jagged technological frontier"（ギザギザの技術的フロンティア）** と呼ぶ。ギザギザなのは、**見た目の難易度が同じ2つの課題が境界の反対側に落ちうる**からであり、**内側からは境界が見えない**からだ。だから対策は「難しい課題では気をつける」ではありえない——**どれが難しい課題だったのかが分からない**のだから。工程の中の一手順にするしかない。
+
+> Dell'Acqua, F., McFowland III, E., Mollick, E., Lifshitz-Assaf, H., Kellogg, K., Rajendran, S., Krayer, L., Candelon, F. & Lakhani, K. (2026). "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality." *Organization Science*. [doi:10.1287/orsc.2025.21838](https://doi.org/10.1287/orsc.2025.21838) — 初出はHBS Working Paper 24-013。無料のプレプリント：[SSRN 4573321](https://mitsloan.mit.edu/sites/default/files/2023-10/SSRN-id4573321.pdf)
+
+**この研究を読み過ぎないこと。** 本論は「**AIを疑い自分で検証したコンサルタントの成績が良かった**」ことを**示していない**（論文中に skeptical / verify はその意味では現れない）。示された2つの成功パターン——**Centaur**（"dividing and delegating their solution-creation activities to the AI or to themselves"＝仕事をAIと自分に分けて割り振る）と **Cyborg**（"completely integrating their task flow with the AI and continually interacting with the technology"＝工程をAIと融合させ絶えず対話する）——は、**仕事の分け方**の型であって、**不信の型ではない**。この研究が確立したのは「ギザギザのフロンティア」と「その外側での19ポイントの低下」である。それで十分に強い。
 
 ## 3. 思考の余白 ―「考える力を、明け渡さない。」
 
