@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **✅ All 7 rows human-verified 2026-07-27 — first theme fully checked.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **B demoted 2026-07-27 after a full-text read — "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A and B human-verified 2026-07-31 — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; C/D/E/F awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
@@ -52,22 +52,22 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 16 |
+| 全文 | 15 |
 | 要旨 | 13 |
-| ✅ 人間確認済み | 8 |
+| ✅ 人間確認済み | 9 |
 | 代替OA全文（原典はペイウォール） | 1 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 25 | | 無料全文が読める | 22 |
-| ✅ 人間確認済み | 8 | | ✅済み | 8 |
-| △ 限定つき | 3 | | 無料だが機械403／要旨のみ | 5 |
+| ✓ 整合 | 25 | | 無料全文が読める | 21 |
+| ✅ 人間確認済み | 9 | | ✅済み | 9 |
+| △ 限定つき | 2 | | 無料だが機械403／要旨のみ | 5 |
 | ✗→訂正済 | 2 | | 無料代替あり | 1 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては25行が整合（△3・✗→訂正済2・判定不能1、別途✅8）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**22行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：8/39 — テーマ1（全7行）が完了**（＋02-A Brynjolfsson）。**次はテーマ2**（B・C・D・E・Fの5行。うちB・D・Fは無料全文、Cは代替OA、EはSSRN 403）。
+**この表から読めること**：③としては25行が整合（△2・✗→訂正済2・判定不能1、別途✅9）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**21行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：9/39 — テーマ1（全7行）完了、テーマ2は着手（A・Bの2行）**。**残るテーマ2はC・D・E・Fの4行**（C=代替OA・D/Fは無料全文・EはSSRN 403）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -93,7 +93,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | https://journals.openedition.org/philosophiascientiae/892?lang=en | Collins 3分類の定義（関係的／身体的／集合的） | Theme2 C |
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial）。**あわせて確認**：この論説は反AIではなく「AI/シミュレーションは有用な補助、ただし現行モデルは指導者を置き換えられない」が結論 | Theme2 D |
 | ☐ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
-| ☐ | https://arxiv.org/abs/2507.03811 | **【2026-07-27 全文確認で格下げ】**①94.9%＝「最終報告に**全カラム名**への言及があった実行の割合」（864回中820回）で知識の回収率ではない ②中身の再現度は **METEOR 0.17** と低い ③「従業員」は**LLMで模擬**・配られる知識は**既存テーブル説明の断片**＝暗黙知の抽出をテストできていない ④著者全員 Kunumi 所属・同社助成。**※「プレプリント」は誤りで、IJCNN 2025（IEEE）に出版済み**（doi:10.1109/IJCNN64981.2025.11227259）。ただし内容品質は指標で割れる（METEOR 0.17／Coherence 2.65 vs Faithfulness 4.37、いずれも1〜5点のG-Eval） | Theme2 B |
+| ✅ | https://arxiv.org/abs/2507.03811 （確認済み2026-07-31） | **格下げの根拠3点はすべて原文一致**：①94.9%＝「最終報告に**全カラム名**への言及があった実行の割合」（864回中820回）で知識の回収率ではない ②中身の再現度は **METEOR 0.17**（Coherence 2.65／Faithfulness 4.37、いずれも1〜5点のG-Eval）③「従業員」は**LLMで模擬**・配られる知識は**既存テーブル説明の断片**＝暗黙知の抽出をテストできていない ④著者全員 Kunumi 所属・同社助成。掲載＝IJCNN 2025（IEEE） | Theme2 B（**✅済み**） |
 | ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
 | ☐ | https://link.springer.com/article/10.1007/s11133-025-09619-8 | ラポール前提への**批判**であること（＝当初の引用が逆向きだった確認） | Theme4 F |
 | ☐ | https://arxiv.org/abs/2504.13908 （Barari・※査読前プレプリント） | AIの追い問いで開示が詳細・情報豊富に（UXはわずか低下、N=1,800）。**あわせて**：自動コーディングは "moderate"・追従バイアスで偽陽性増 | Theme4 I |
@@ -125,7 +125,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ~~Rapport is prerequisite for honest depth~~ **RETRACTED / INVERTED 2026-07-20**: Rao 2026 actually *critiques* the rapport-as-prerequisite premise ("rapport can be harmful; disclosure is driven by the decision to participate"). Do **not** cite as a human advantage | Rao, *Qualitative Sociology* 49:47-70 (2026, OA) | https://link.springer.com/article/10.1007/s11133-025-09619-8 | ⚠️ inverted-citation caught (AI-checked) |
 | **[Theme-4 rebuild 2026-07-20]** "Humans elicit *deeper* disclosure" is **NOT supported** — peer-reviewed evidence leans AI-favorable on informativeness (Xiao 2020 *TOCHI*; Barari 2025; Wieland 2026 *HICSS*). The nearest peer-reviewed finding is an AI *limitation*, not a human advantage: current LLM interviewers miss idiosyncratic specifics ("richness") — but its comparison arm is a scripted bot, **not** a human interviewer, so it does not show humans elicit more. Replaces the retracted industry secondary (insightplatforms) | Cuevas, Scurrell, Brown, Entenmann & Daepp, *Proc. ACM HCI* 9(2), CSCW049, 2025, doi:10.1145/3710947 — free: arXiv 2309.10187 (2023 preprint) | https://arxiv.org/abs/2309.10187 | ⚠️ AI-checked (abstract + arXiv); bib locked 2026-07-25 (PACM HCI vol 9, 2025) — awaiting human check |
 | **[Tacit knowledge theme, 2026-07-19]** Collins' 3 types: relational (codifiable) / somatic (bodily) / collective (in practices) — key to resolving the Brynjolfsson conflict | Collins, *Tacit and Explicit Knowledge* (2010); free OA backing: Soler & Zwart, *Philosophia Scientiæ* 17-3 (2013) | https://journals.openedition.org/philosophiascientiae/892?lang=en | ⚠️ 3 types confirmed via OA (02-C); replaced weak blog secondary — human check pending |
-| LLM agents extract tacit knowledge via iterative interviews (94.9% recall) — **but that figure is from 864 synthetic SI-model simulations, not real employees** | Zuin, Mastelini, Loures & Veloso, arXiv 2507.03811 (IJCNN 2025, **preprint**) | https://arxiv.org/abs/2507.03811 | ⚠️ AI-checked (02-B); 94.9% confirmed 2026-07-25 but it is a *simulated* recall, not a real-org extraction rate — human check pending |
+| **[Demoted 2026-07-27, confirmed 2026-07-31]** 94.9% is a per-run binary check that every column *name* got mentioned (820/864 runs) — not a recall rate, not real employees, not real organizational knowledge. Content fidelity is METEOR 0.17 / G-Eval Coherence 2.65 / Faithfulness 4.37 | Zuin, Mastelini, Loures & Veloso, *IJCNN 2025* (IEEE), doi:10.1109/IJCNN64981.2025.11227259 | https://arxiv.org/abs/2507.03811 | ✅ human-verified 2026-07-31 (full PDF, incl. tables). No longer cited as evidence that AI can extract tacit knowledge (02-B) |
 | Tacit-knowledge transfer in medicine requires close mentor-learner interaction | Papadimos, Hsu & Pappada, *Cureus* 18(1) (2026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | ⚠️ AI-checked (02-D); genre = editorial — human check pending |
 | Embodiment shapes cognition/meaning; text-only LLMs lack sensorimotor grounding — **Theme-1's strongest anchor** | Kadambi, Aziz-Zadeh, Damasio, Iacoboni & Narayanan, "Embodiment in multimodal LLMs", *Neuron* 114(11):1908-1921 (2026), peer-reviewed Review | https://doi.org/10.1016/j.neuron.2026.03.004 | ⚠️ AI abstract-confirmed (01-B) — human check pending |
 | **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | Twyman & O'Donnell, *AI & SOCIETY* 41:5963-5965 (2026) | https://link.springer.com/article/10.1007/s00146-026-03000-1 | ⚠️ identified (01-A); **genre = opinion/commentary column — weak** — human check pending |
