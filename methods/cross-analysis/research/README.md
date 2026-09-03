@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **✅ All 7 rows human-verified 2026-07-27 — first theme fully checked.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A, B and C human-verified (A/B 2026-07-31, C 2026-09-04) — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; D/E/F awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A, B, C and D human-verified (A/B 2026-07-31, C/D 2026-09-04) — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; E/F awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
@@ -48,26 +48,26 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | **③**（主張を支えるか） | `✓` 整合 ／ `△` 限定つき（ジャンルが弱い・一部のみ・測定が主張より狭い） ／ `✗→訂正済` 不整合だったので直した ／ `判定不能` アクセスできず確認しようがない |
 | **人間確認** | `無料全文` ／ `無料要旨のみ` ／ `無料代替あり` ／ `要機関アクセス` ／ `不能` |
 
-**全39行の内訳（2026-09-04時点・02-Cの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
+**全39行の内訳（2026-09-04時点・02-C/Dの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 15 |
+| 全文 | 14 |
 | 要旨 | 13 |
-| ✅ 人間確認済み | 10 |
+| ✅ 人間確認済み | 11 |
 | 代替OA全文（原典はペイウォール） | 0 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 24 | | 無料全文が読める | 21 |
-| ✅ 人間確認済み | 10 | | ✅済み | 10 |
+| ✓ 整合 | 23 | | 無料全文が読める | 20 |
+| ✅ 人間確認済み | 11 | | ✅済み | 11 |
 | △ 限定つき | 2 | | 無料だが機械403／要旨のみ | 5 |
 | ✗→訂正済 | 2 | | 無料代替あり | 0 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては24行が整合（△2・✗→訂正済2・判定不能1、別途✅10）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**21行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：10/39 — テーマ1（全7行）完了、テーマ2はA・B・Cの3行が完了**。**残るテーマ2はD・E・Fの3行**（D/Fは無料全文・EはSSRN 403）。
+**この表から読めること**：③としては23行が整合（△2・✗→訂正済2・判定不能1、別途✅11）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**20行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：11/39 — テーマ1（全7行）完了、テーマ2はA・B・C・Dの4行が完了**。**残るテーマ2はE・Fの2行**（Fは無料全文・EはSSRN 403）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -91,7 +91,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC10254409/ | LEAS 85→98/100・「患者が"分かってもらえた"と感じるかは別」 | Theme3 F |
 | ☐ | https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
 | ✅ | https://journals.openedition.org/philosophiascientiae/892 （確認済み2026-09-04・全文PDF） | 3分類の定義（関係的／身体的／集合的）を逐語照合。**あわせて発見**：論文自体の主眼はRTK（関係的）の名称・定義への批判で、「contingent」への改名を提案している | Theme2 C（**✅済み**） |
-| ☐ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial）。**あわせて確認**：この論説は反AIではなく「AI/シミュレーションは有用な補助、ただし現行モデルは指導者を置き換えられない」が結論 | Theme2 D |
+| ✅ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ （確認済み2026-09-04・出版社PDF原本） | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial）4引用すべて逐語照合、訂正なし。**あわせて確認**：この論説は反AIではなく「AI/シミュレーションは有用な補助、ただし現行モデルは指導者を置き換えられない」が結論 | Theme2 D（**✅済み**） |
 | ☐ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
 | ✅ | https://arxiv.org/abs/2507.03811 （確認済み2026-07-31） | **格下げの根拠3点はすべて原文一致**：①94.9%＝「最終報告に**全カラム名**への言及があった実行の割合」（864回中820回）で知識の回収率ではない ②中身の再現度は **METEOR 0.17**（Coherence 2.65／Faithfulness 4.37、いずれも1〜5点のG-Eval）③「従業員」は**LLMで模擬**・配られる知識は**既存テーブル説明の断片**＝暗黙知の抽出をテストできていない ④著者全員 Kunumi 所属・同社助成。掲載＝IJCNN 2025（IEEE） | Theme2 B（**✅済み**） |
 | ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
@@ -126,7 +126,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | **[Theme-4 rebuild 2026-07-20]** "Humans elicit *deeper* disclosure" is **NOT supported** — peer-reviewed evidence leans AI-favorable on informativeness (Xiao 2020 *TOCHI*; Barari 2025; Wieland 2026 *HICSS*). The nearest peer-reviewed finding is an AI *limitation*, not a human advantage: current LLM interviewers miss idiosyncratic specifics ("richness") — but its comparison arm is a scripted bot, **not** a human interviewer, so it does not show humans elicit more. Replaces the retracted industry secondary (insightplatforms) | Cuevas, Scurrell, Brown, Entenmann & Daepp, *Proc. ACM HCI* 9(2), CSCW049, 2025, doi:10.1145/3710947 — free: arXiv 2309.10187 (2023 preprint) | https://arxiv.org/abs/2309.10187 | ⚠️ AI-checked (abstract + arXiv); bib locked 2026-07-25 (PACM HCI vol 9, 2025) — awaiting human check |
 | **[Tacit knowledge theme, 2026-07-19, human-verified 2026-09-04]** Collins' 3 types: relational (codifiable) / somatic (bodily) / collective (in practices) — key to resolving the Brynjolfsson conflict | Collins, *Tacit and Explicit Knowledge* (2010); free OA backing: Soler & Zwart, "Collins's Taxonomy of Tacit Knowledge", *Philosophia Scientiæ* 17-3 (2013), DOI 10.4000/philosophiascientiae.892 | https://journals.openedition.org/philosophiascientiae/892 | ✅ human-verified 2026-09-04 (full PDF). All 3 definitions confirmed verbatim (02-C). **Also found:** the paper's own thesis is a critique of the "relational" label itself — it argues only 2 of Collins's 5 RTK sub-cases are genuinely relational and proposes renaming RTK to "contingent tacit knowledge"; this ledger uses only the 3-way definitional split, not the renaming argument |
 | **[Demoted 2026-07-27, confirmed 2026-07-31]** 94.9% is a per-run binary check that every column *name* got mentioned (820/864 runs) — not a recall rate, not real employees, not real organizational knowledge. Content fidelity is METEOR 0.17 / G-Eval Coherence 2.65 / Faithfulness 4.37 | Zuin, Mastelini, Loures & Veloso, *IJCNN 2025* (IEEE), doi:10.1109/IJCNN64981.2025.11227259 | https://arxiv.org/abs/2507.03811 | ✅ human-verified 2026-07-31 (full PDF, incl. tables). No longer cited as evidence that AI can extract tacit knowledge (02-B) |
-| Tacit-knowledge transfer in medicine requires close mentor-learner interaction | Papadimos, Hsu & Pappada, *Cureus* 18(1) (2026) | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | ⚠️ AI-checked (02-D); genre = editorial — human check pending |
+| Tacit-knowledge transfer in medicine requires close mentor-learner interaction | Papadimos, Hsu & Pappada, "Insights From Michael Polanyi", *Cureus* 18(1):e102205 (2026), doi:10.7759/cureus.102205 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ | ✅ human-verified 2026-09-04 (publisher PDF). All 4 quotes re-confirmed verbatim, no corrections. Genre = Editorial; conclusion is "adjunct, not replacement" — not anti-AI (02-D) |
 | Embodiment shapes cognition/meaning; text-only LLMs lack sensorimotor grounding — **Theme-1's strongest anchor** | Kadambi, Aziz-Zadeh, Damasio, Iacoboni & Narayanan, "Embodiment in multimodal LLMs", *Neuron* 114(11):1908-1921 (2026), peer-reviewed Review | https://doi.org/10.1016/j.neuron.2026.03.004 | ⚠️ AI abstract-confirmed (01-B) — human check pending |
 | **[Embodiment theme, 2026-07-19]** LLMs lack a body; embodied knowledge is a key human-AI distinction | Twyman & O'Donnell, *AI & SOCIETY* 41:5963-5965 (2026) | https://link.springer.com/article/10.1007/s00146-026-03000-1 | ⚠️ identified (01-A); **genre = opinion/commentary column — weak** — human check pending |
 | Body is part of cognition's structure, not peripheral (embodied intelligence) | *Nature Machine Intelligence* 8:491-492 (2026) | https://www.nature.com/articles/s42256-026-01239-3 | ⚠️ visible-text confirmed (01-C); **genre = Editorial**; paywalled — human check pending |
