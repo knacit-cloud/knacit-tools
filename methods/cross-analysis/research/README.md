@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **✅ All 7 rows human-verified 2026-07-27 — first theme fully checked.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A, B, C, D and E human-verified (A/B 2026-07-31, C/D/E 2026-09-04) — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; F awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | **✅ All 6 rows human-verified 2026-09-04 (A/B 2026-07-31) — second theme fully checked.** B was demoted 2026-07-27, so "AI can surface tacit knowledge" rests on Brynjolfsson alone; E's own genre turned out to be misrecorded (a teaching slide deck, not a working paper), which reinforces rather than changes its supplementary-only status |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
@@ -48,26 +48,26 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | **③**（主張を支えるか） | `✓` 整合 ／ `△` 限定つき（ジャンルが弱い・一部のみ・測定が主張より狭い） ／ `✗→訂正済` 不整合だったので直した ／ `判定不能` アクセスできず確認しようがない |
 | **人間確認** | `無料全文` ／ `無料要旨のみ` ／ `無料代替あり` ／ `要機関アクセス` ／ `不能` |
 
-**全39行の内訳（2026-09-04時点・02-C/D/Eの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
+**全39行の内訳（2026-09-04時点・02-C/D/E/Fの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
-| 全文 | 14 |
+| 全文 | 13 |
 | 要旨 | 12 |
-| ✅ 人間確認済み | 12 |
+| ✅ 人間確認済み | 13 |
 | 代替OA全文（原典はペイウォール） | 0 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
-| ✓ 整合 | 23 | | 無料全文が読める | 20 |
-| ✅ 人間確認済み | 12 | | ✅済み | 12 |
+| ✓ 整合 | 22 | | 無料全文が読める | 19 |
+| ✅ 人間確認済み | 13 | | ✅済み | 13 |
 | △ 限定つき | 1 | | 無料だが機械403／要旨のみ | 4 |
 | ✗→訂正済 | 2 | | 無料代替あり | 0 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては23行が整合（△1・✗→訂正済2・判定不能1、別途✅12）。**人間確認の障害になるのは実質6行だけ**（要機関アクセス2＋機械403等4）で、**20行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：12/39 — テーマ1（全7行）完了、テーマ2はA・B・C・D・Eの5行が完了**。**残るテーマ2はFのみ**（無料全文）。
+**この表から読めること**：③としては22行が整合（△1・✗→訂正済2・判定不能1、別途✅13）。**人間確認の障害になるのは実質6行だけ**（要機関アクセス2＋機械403等4）で、**19行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：13/39 — テーマ1・テーマ2が完了（全13行）**。**次はテーマ3〜5（未着手・0/26）**。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
@@ -92,7 +92,7 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | ☐ | https://arxiv.org/abs/2602.17293 | 「認知・動機的共感で高評価／感情的共感は優位なし」（※プレプリント） | Theme3 G |
 | ✅ | https://journals.openedition.org/philosophiascientiae/892 （確認済み2026-09-04・全文PDF） | 3分類の定義（関係的／身体的／集合的）を逐語照合。**あわせて発見**：論文自体の主眼はRTK（関係的）の名称・定義への批判で、「contingent」への改名を提案している | Theme2 C（**✅済み**） |
 | ✅ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12927663/ （確認済み2026-09-04・出版社PDF原本） | 「暗黙知の伝達には信頼と師弟の密な相互作用が不可欠」（※Editorial）4引用すべて逐語照合、訂正なし。**あわせて確認**：この論説は反AIではなく「AI/シミュレーションは有用な補助、ただし現行モデルは指導者を置き換えられない」が結論 | Theme2 D（**✅済み**） |
-| ☐ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F |
+| ✅ | https://rakaposhi.eas.asu.edu/Polanyis-Revenge-CACM-Print.pdf （確認済み2026-09-04・著者公開PDF） | 「解釈可能性等の問題は暗黙知学習への一極集中に遡れる」 | Theme2 F（**✅済み**） |
 | ✅ | https://arxiv.org/abs/2507.03811 （確認済み2026-07-31） | **格下げの根拠3点はすべて原文一致**：①94.9%＝「最終報告に**全カラム名**への言及があった実行の割合」（864回中820回）で知識の回収率ではない ②中身の再現度は **METEOR 0.17**（Coherence 2.65／Faithfulness 4.37、いずれも1〜5点のG-Eval）③「従業員」は**LLMで模擬**・配られる知識は**既存テーブル説明の断片**＝暗黙知の抽出をテストできていない ④著者全員 Kunumi 所属・同社助成。掲載＝IJCNN 2025（IEEE） | Theme2 B（**✅済み**） |
 | ☐ | https://academic.oup.com/iwc/article/36/5/279/7692197 | 「判断されない」認知・評価恐怖↓・**ただし開示量は増えず** | Theme4 D |
 | ☐ | https://link.springer.com/article/10.1007/s11133-025-09619-8 | ラポール前提への**批判**であること（＝当初の引用が逆向きだった確認） | Theme4 F |
