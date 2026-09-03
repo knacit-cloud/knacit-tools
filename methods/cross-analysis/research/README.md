@@ -20,7 +20,7 @@ An ongoing, evidence-first research project mapping — in fine detail — what 
 | # | Theme | Note file | Status |
 |---|---|---|---|
 | 1 | Embodied presence（身体でその場にいる） | `01-embodiment.md` | **✅ All 7 rows human-verified 2026-07-27 — first theme fully checked.** The checks changed the theme: **Kadambi (B) turns out to be agnostic about whether AI can acquire internal embodiment**, so the "in principle" framing now rests on Ziemke (D) — which itself turned out to be open access, not paywalled. E1's free source was also found not to cite the original it stood in for |
-| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A, B, C and D human-verified (A/B 2026-07-31, C/D 2026-09-04) — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; E/F awaiting human check |
+| 2 | Tacit knowledge（暗黙知） | `02-tacit-knowledge.md` | ⚠️ AI-verified (Collins taxonomy resolves the Brynjolfsson tension). **A, B, C, D and E human-verified (A/B 2026-07-31, C/D/E 2026-09-04) — B was demoted 2026-07-27, so "AI can surface tacit knowledge" now rests on Brynjolfsson alone**; F awaiting human check |
 | 3 | Empathy & feeling felt（共感・気持ちの受け皿） | `03-empathy.md` | ⚠️ AI-verified + **mechanism deep-research 2026-07-20** (110 agents, 25 claims adversarially verified: authenticity attribution confirmed strong; naive cost-signaling refuted; new choice-evaluation paradox found); awaiting human check |
 | 4 | Trust & disclosure（信頼と自己開示 — 反証が濃い領域） | `04-trust-disclosure.md` | ⚠️ AI-verified + **human-side rebuilt 2026-07-20** ("deeper disclosure = human" retired); awaiting human check |
 | 5 | Responsibility & judgment（責任・判断の引き受け） | `05-responsibility.md` | ⚠️ AI-verified (E swapped to Hohenstein & Jung 2020); awaiting human check |
@@ -48,26 +48,26 @@ AIが確認済みの項目。**りょうまさんがリンクを開いて「確�
 | **③**（主張を支えるか） | `✓` 整合 ／ `△` 限定つき（ジャンルが弱い・一部のみ・測定が主張より狭い） ／ `✗→訂正済` 不整合だったので直した ／ `判定不能` アクセスできず確認しようがない |
 | **人間確認** | `無料全文` ／ `無料要旨のみ` ／ `無料代替あり` ／ `要機関アクセス` ／ `不能` |
 
-**全39行の内訳（2026-09-04時点・02-C/Dの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
+**全39行の内訳（2026-09-04時点・02-C/D/Eの✅化を反映して手動再集計。行の状態を変えたら必ず数え直すこと）**
 
 | 深度（AIがどこまで読んだか） | 行数 |
 |---|---|
 | 全文 | 14 |
-| 要旨 | 13 |
-| ✅ 人間確認済み | 11 |
+| 要旨 | 12 |
+| ✅ 人間確認済み | 12 |
 | 代替OA全文（原典はペイウォール） | 0 |
 | 書誌のみ | 1 |
 
 | ③整合の判定 | 行数 | | 人間確認の道 | 行数 |
 |---|---|---|---|---|
 | ✓ 整合 | 23 | | 無料全文が読める | 20 |
-| ✅ 人間確認済み | 11 | | ✅済み | 11 |
-| △ 限定つき | 2 | | 無料だが機械403／要旨のみ | 5 |
+| ✅ 人間確認済み | 12 | | ✅済み | 12 |
+| △ 限定つき | 1 | | 無料だが機械403／要旨のみ | 4 |
 | ✗→訂正済 | 2 | | 無料代替あり | 0 |
 | 判定不能 | 1 | | 要機関アクセス | 2 |
 | | | | 不能 | 1 |
 
-**この表から読めること**：③としては23行が整合（△2・✗→訂正済2・判定不能1、別途✅11）。**人間確認の障害になるのは実質7行だけ**（要機関アクセス2＋機械403等5）で、**20行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：11/39 — テーマ1（全7行）完了、テーマ2はA・B・C・Dの4行が完了**。**残るテーマ2はE・Fの2行**（Fは無料全文・EはSSRN 403）。
+**この表から読めること**：③としては23行が整合（△1・✗→訂正済2・判定不能1、別途✅12）。**人間確認の障害になるのは実質6行だけ**（要機関アクセス2＋機械403等4）で、**20行は無料全文が開くので、上から順に潰せば✅化は進む**。逆に `判定不能`(04-B Pickard) は、何をしても✅にできない行として切り分けておく。**✅化 進捗：12/39 — テーマ1（全7行）完了、テーマ2はA・B・C・D・Eの5行が完了**。**残るテーマ2はFのみ**（無料全文）。
 
 **読み替えの注意：`③✓` は「AIが原文と照合して主張を支えると判断した」までで、✅ではない。** ✅は人間が一次リンクを開いて確認したときだけ付く（このルールは変えない）。
 
